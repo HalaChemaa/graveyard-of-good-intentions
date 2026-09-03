@@ -1,0 +1,8 @@
+metric,value,definition
+Intention Conversion Rate,11.9%,Share of intentions that reach COMPLETED status
+Median Intention Survival Time,42 days,Median days from creation to terminal outcome (or last activity if still open)
+Research-to-Action Ratio (overall),1.14,Total hours spent researching / total hours spent actually doing the thing
+Postponement Rate,28.1%,Share of intentions postponed at least once
+Zombie Intention Rate,23.8%,"Share of intentions with real effort logged, then no activity for 120+ days, never formally closed"
+Median Action Latency,59 days,Median days between creating an intention and actually starting it (among those that started)
+Median Completion Efficiency,0.82x,"Actual hours spent / estimated hours, for completed intentions (>1 = took longer than estimated)"

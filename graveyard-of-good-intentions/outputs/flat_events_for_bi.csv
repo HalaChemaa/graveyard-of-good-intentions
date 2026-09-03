@@ -1,0 +1,1419 @@
+event_id,intention_id,event_date,event_type,hours_spent,note,title,category_name,status
+1,172,2023-08-05,RESEARCHED,0.6,,Call an old friend,Relationships,OPEN/STALLED
+2,21,2024-05-20,CREATED,0.0,,Start meditating daily,Fitness & Health,OPEN/STALLED
+3,309,2025-04-18,POSTPONED,0.0,Lack of time,Plan a weekend getaway,Travel,OPEN/STALLED
+4,33,2025-06-12,CREATED,0.0,,Compare insurance providers,Financial,OPEN/STALLED
+5,287,2024-10-29,CREATED,0.0,,Plan a road trip route,Travel,ABANDONED
+6,61,2024-12-04,RESEARCHED,0.2,,Learn basic calligraphy,Hobby,COMPLETED
+7,157,2025-06-13,COMPLETED,0.0,,Research a relocation destination,Travel,COMPLETED
+8,266,2023-12-31,RESEARCHED,0.3,,Pay off a small debt,Financial,OPEN/STALLED
+9,185,2024-09-11,RESEARCHED,1.6,,Start a photography project,Creative,COMPLETED
+10,241,2023-05-27,ABANDONED,0.0,Unclear next step,Start journaling regularly,Hobby,ABANDONED
+11,60,2024-04-02,CONTINUED,1.9,,Start a photography project,Creative,REPLACED
+12,170,2024-02-06,CONTINUED,2.4,,Research a relocation destination,Travel,ABANDONED
+13,282,2023-08-29,COMPLETED,0.0,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+14,207,2025-05-22,RESEARCHED,0.0,,Collect and organize a hobby set,Hobby,OPEN/STALLED
+15,77,2025-07-15,POSTPONED,0.0,Unclear next step,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+16,168,2024-01-14,RESEARCHED,1.0,,Learn conversational Spanish,Learning & Skills,ABANDONED
+17,291,2024-07-15,COMPLETED,0.0,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+18,32,2024-05-01,CREATED,0.0,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+19,26,2024-10-31,CONTINUED,1.5,,Ask for a performance review,Career,ABANDONED
+20,20,2025-04-10,CONTINUED,2.9,,Start a small garden,Hobby,COMPLETED
+21,11,2025-05-25,CREATED,0.0,,CREATE A MONTHLY BUDGET,Financial,OPEN/STALLED
+22,88,2024-08-17,RESEARCHED,1.5,,Reduce screen time before bed,Fitness & Health,OPEN/STALLED
+23,112,2024-09-18,STARTED,0.0,,JOIN A LOCAL SOCIAL GROUP,Relationships,OPEN/STALLED
+24,31,2024-05-19,RESEARCHED,0.5,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+25,306,2024-04-15,CONTINUED,0.7,,Plan a road trip route,Travel,COMPLETED
+26,68,2025-05-27,RESEARCHED,0.4,,Start a niche newsletter,Side Project,OPEN/STALLED
+27,212,2023-10-14,CONTINUED,2.5,,Write a long-overdue message,Relationships,OPEN/STALLED
+28,258,2024-01-14,CREATED,0.0,,Renew an expiring document,Home & Admin,ABANDONED
+29,223,2024-02-11,RESEARCHED,7.8,,Schedule regular calls with family,Relationships,COMPLETED
+30,137,2023-05-19,POSTPONED,0.0,Competing priorities,Plan a solo trip,Travel,OPEN/STALLED
+31,299,2023-03-02,STARTED,0.0,,Build an automation script,Side Project,OPEN/STALLED
+32,268,2025-07-16,COMPLETED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+33,209,2025-01-12,RESEARCHED,0.9,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+34,74,2025-04-26,RESEARCHED,1.2,,Build an emergency fund,Financial,OPEN/STALLED
+35,49,2024-02-12,CONTINUED,0.0,,Set up automatic savings,Financial,COMPLETED
+36,17,2023-05-07,RESEARCHED,1.3,,Send a thank-you note,Relationships,ABANDONED
+37,254,2023-03-29,POSTPONED,0.0,Overestimated effort required,Start a puzzle-solving habit,Hobby,COMPLETED
+38,49,2023-11-29,PLANNED,0.0,,Set up automatic savings,Financial,COMPLETED
+39,122,2024-02-13,RESEARCHED,1.8,,Start a small garden,Hobby,OPEN/STALLED
+40,60,2024-02-10,CONTINUED,0.6,,Start a photography project,Creative,REPLACED
+41,196,2025-04-10,RESEARCHED,1.1,,Ask for a performance review,Career,REPLACED
+42,158,2024-08-02,RESEARCHED,1.9,,Plan a family visit,Relationships,ABANDONED
+43,30,2023-10-28,PLANNED,0.0,,Finish a painting series,Creative,COMPLETED
+44,273,2025-05-31,RESEARCHED,0.4,,Collect and organize a hobby set,Hobby,OPEN/STALLED
+45,101,2024-10-05,RESEARCHED,1.3,,Start a niche newsletter,Side Project,ABANDONED
+46,189,2024-04-21,RESEARCHED,0.7,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+47,7,2023-05-26,RESEARCHED,1.5,,Study for a certification exam,Learning & Skills,ABANDONED
+48,57,2025-04-02,RESEARCHED,1.0,,Research visa requirements,Travel,ABANDONED
+49,1,2025-02-19,RESEARCHED,4.6,,Learn SQL properly,Learning & Skills,OPEN/STALLED
+50,277,2023-08-28,COMPLETED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+51,199,2024-06-05,RESEARCHED,0.2,,Try a new recipe every week,Hobby,ABANDONED
+52,159,2023-05-12,STARTED,0.0,,Train for a 5k run,Fitness & Health,COMPLETED
+53,101,2025-05-01,ABANDONED,0.0,Lack of motivation,Start a niche newsletter,Side Project,ABANDONED
+54,18,2024-03-05,RESEARCHED,0.4,,Learn a new design software,Creative,ABANDONED
+55,222,2023-06-21,CONTINUED,1.3,,Research a relocation destination,Travel,REPLACED
+56,209,2024-12-20,RESEARCHED,0.9,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+57,225,2024-02-22,CREATED,0.0,,Plan a road trip route,Travel,REPLACED
+58,38,2023-02-02,CREATED,0.0,,WRITE SHORT STORIES WEEKLY,Creative,OPEN/STALLED
+59,39,2023-11-27,RESEARCHED,1.6,,Start a freelance side gig,Side Project,COMPLETED
+60,316,2024-06-11,ABANDONED,0.0,Low energy / burnout,Plan a family visit,Relationships,ABANDONED
+61,91,2024-04-13,CONTINUED,1.8,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+62,306,2023-12-14,STARTED,0.0,,Plan a road trip route,Travel,COMPLETED
+63,222,2023-07-02,REPLACED,0.0,Replaced by a different priority,Research a relocation destination,Travel,REPLACED
+64,69,2023-06-22,CONTINUED,8.3,,Call an old friend,Relationships,REPLACED
+65,180,2025-03-02,CREATED,0.0,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+66,162,2025-06-29,CREATED,0.0,,START A HOUSEPLANT COLLECTION,Hobby,OPEN/STALLED
+67,60,2024-01-18,CONTINUED,0.4,,Start a photography project,Creative,REPLACED
+68,260,2023-02-28,RESEARCHED,0.2,,Start meditating daily,Fitness & Health,ABANDONED
+69,20,2025-02-08,CONTINUED,2.9,,Start a small garden,Hobby,COMPLETED
+70,41,2025-07-05,POSTPONED,0.0,Blocked by dependency,Try a new craft technique,Creative,OPEN/STALLED
+71,214,2025-06-17,CONTINUED,0.3,,Plan a weekend getaway,Travel,COMPLETED
+72,244,2025-07-19,RESEARCHED,0.7,,Schedule regular calls with family,Relationships,OPEN/STALLED
+73,232,2025-04-15,PLANNED,0.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+74,26,2024-07-20,STARTED,0.0,,Ask for a performance review,Career,ABANDONED
+75,77,2025-07-27,STARTED,0.0,,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+76,309,2025-06-24,CONTINUED,6.1,,Plan a weekend getaway,Travel,OPEN/STALLED
+77,281,2023-12-07,RESEARCHED,3.0,,Start a reading challenge,Hobby,OPEN/STALLED
+78,200,2025-01-20,CONTINUED,0.3,,Start sketching daily,Creative,ABANDONED
+79,28,2024-11-08,RESEARCHED,4.2,,Start a small blog,Side Project,ABANDONED
+80,11,2025-07-06,STARTED,0.0,,CREATE A MONTHLY BUDGET,Financial,OPEN/STALLED
+81,197,2024-02-02,CONTINUED,2.9,,Write a long-overdue message,Relationships,COMPLETED
+82,173,2023-07-28,CREATED,0.0,,Plan a solo trip,Travel,COMPLETED
+83,196,2025-03-26,CREATED,0.0,,Ask for a performance review,Career,REPLACED
+84,296,2023-06-07,RESEARCHED,1.3,,Compare insurance providers,Financial,ABANDONED
+85,50,2023-11-17,RESEARCHED,3.1,,Train for a 5k run,Fitness & Health,OPEN/STALLED
+86,252,2025-06-07,RESEARCHED,0.7,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+87,173,2023-08-01,RESEARCHED,0.3,,Plan a solo trip,Travel,COMPLETED
+88,254,2023-04-22,STARTED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+89,82,2023-09-18,CREATED,0.0,,Organize a small get-together,Relationships,OPEN/STALLED
+90,200,2024-11-21,POSTPONED,0.0,Unclear next step,Start sketching daily,Creative,ABANDONED
+91,319,2025-05-05,CREATED,0.0,,RESEARCH INVESTMENT OPTIONS,Financial,OPEN/STALLED
+92,279,2023-06-06,CREATED,0.0,,Start meditating daily,Fitness & Health,OPEN/STALLED
+93,285,2024-12-06,RESEARCHED,0.3,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+94,168,2023-12-04,CREATED,0.0,,Learn conversational Spanish,Learning & Skills,ABANDONED
+95,185,2024-08-08,CREATED,0.0,,Start a photography project,Creative,COMPLETED
+96,142,2025-01-26,CREATED,0.0,,Start a photography project,Creative,OPEN/STALLED
+97,197,2023-10-10,RESEARCHED,2.7,,Write a long-overdue message,Relationships,COMPLETED
+98,30,2023-11-23,STARTED,0.0,,Finish a painting series,Creative,COMPLETED
+99,9,2024-07-19,CREATED,0.0,,Plan a family visit,Relationships,COMPLETED
+100,60,2023-11-26,PLANNED,0.0,,Start a photography project,Creative,REPLACED
+101,108,2025-05-04,CONTINUED,0.8,,Repair a strained relationship,Relationships,OPEN/STALLED
+102,197,2023-09-22,RESEARCHED,1.7,,Write a long-overdue message,Relationships,COMPLETED
+103,99,2025-05-14,RESEARCHED,2.0,,COLLECT AND ORGANIZE A HOBBY SET,Hobby,OPEN/STALLED
+104,233,2023-05-14,CREATED,0.0,,Review and cut subscriptions,Financial,ABANDONED
+105,11,2025-07-03,PLANNED,0.0,,CREATE A MONTHLY BUDGET,Financial,OPEN/STALLED
+106,71,2024-09-27,CREATED,0.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+107,215,2023-06-06,RESEARCHED,0.0,,Research a relocation destination,Travel,OPEN/STALLED
+108,11,2025-06-16,RESEARCHED,1.1,,CREATE A MONTHLY BUDGET,Financial,OPEN/STALLED
+109,180,2025-04-06,RESEARCHED,1.8,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+110,39,2024-04-24,POSTPONED,0.0,Competing priorities,Start a freelance side gig,Side Project,COMPLETED
+111,184,2024-01-22,CREATED,0.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+112,105,2023-07-31,CREATED,0.0,,Call an old friend,Relationships,OPEN/STALLED
+113,218,2025-05-02,RESEARCHED,0.6,,Start a small garden,Hobby,OPEN/STALLED
+114,157,2024-12-25,RESEARCHED,0.0,,Research a relocation destination,Travel,COMPLETED
+115,267,2024-06-10,CONTINUED,6.1,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+116,15,2023-11-07,RESEARCHED,2.8,,Create a travel budget,Travel,OPEN/STALLED
+117,195,2025-01-06,POSTPONED,0.0,Blocked by dependency,BOOK A LONG-POSTPONED TRIP,Travel,ABANDONED
+118,257,2023-08-09,CREATED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+119,207,2025-05-29,POSTPONED,0.0,Competing priorities,Collect and organize a hobby set,Hobby,OPEN/STALLED
+120,24,2024-11-27,CREATED,0.0,,Build a personal data project,Side Project,OPEN/STALLED
+121,111,2023-06-21,RESEARCHED,2.4,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+122,2,2023-04-21,RESEARCHED,0.8,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+123,251,2023-08-06,CREATED,0.0,,LEARN A CARD OR BOARD GAME DEEPLY,Hobby,OPEN/STALLED
+124,267,2024-02-17,RESEARCHED,1.3,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+125,301,2023-04-07,RESEARCHED,0.9,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+126,116,2024-05-05,RESEARCHED,0.5,,Create a monthly budget,Financial,ABANDONED
+127,240,2023-03-17,CREATED,0.0,,Plan a trip itinerary,Travel,OPEN/STALLED
+128,237,2023-09-18,RESEARCHED,0.3,,Research flights for a trip,Travel,ABANDONED
+129,267,2024-09-01,CONTINUED,12.3,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+130,186,2025-03-12,PLANNED,0.0,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+131,90,2024-03-28,CREATED,0.0,,Learn key phrases for a trip,Travel,ABANDONED
+132,108,2025-02-25,RESEARCHED,2.0,,Repair a strained relationship,Relationships,OPEN/STALLED
+133,308,2025-05-10,CONTINUED,0.8,,Try a new craft technique,Creative,COMPLETED
+134,171,2025-01-02,CONTINUED,0.9,,Build a personal data project,Side Project,COMPLETED
+135,170,2024-04-13,CONTINUED,3.1,,Research a relocation destination,Travel,ABANDONED
+136,86,2024-11-13,CREATED,0.0,,Start a freelance side gig,Side Project,REPLACED
+137,271,2025-01-09,RESEARCHED,0.4,,Start a small garden,Hobby,ABANDONED
+138,308,2025-02-03,STARTED,0.0,,Try a new craft technique,Creative,COMPLETED
+139,55,2024-02-23,POSTPONED,0.0,Unclear next step,Schedule regular calls with family,Relationships,COMPLETED
+140,293,2023-04-25,RESEARCHED,0.0,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+141,308,2025-06-02,POSTPONED,0.0,Overestimated effort required,Try a new craft technique,Creative,COMPLETED
+142,14,2024-07-27,PLANNED,0.0,,Start journaling regularly,Hobby,REPLACED
+143,196,2025-05-16,REPLACED,0.0,Replaced by a different priority,Ask for a performance review,Career,REPLACED
+144,307,2023-10-07,POSTPONED,0.0,Lack of motivation,Learn a new design software,Creative,OPEN/STALLED
+145,182,2024-09-24,STARTED,0.0,,Plan a savings goal,Financial,COMPLETED
+146,36,2023-08-19,CREATED,0.0,,LEARN CONVERSATIONAL SPANISH,Learning & Skills,OPEN/STALLED
+147,157,2025-05-04,CONTINUED,0.7,,Research a relocation destination,Travel,COMPLETED
+148,51,2023-04-07,CONTINUED,2.5,,Organize digital files,Home & Admin,COMPLETED
+149,79,2025-06-17,CREATED,0.0,,Update CV and LinkedIn profile,Career,OPEN/STALLED
+150,127,2024-06-07,CONTINUED,1.0,,Book a long-postponed trip,Travel,COMPLETED
+151,54,2024-09-03,RESEARCHED,1.8,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+152,26,2024-05-27,CREATED,0.0,,Ask for a performance review,Career,ABANDONED
+153,318,2024-09-22,CREATED,0.0,,Plan a trip itinerary,Travel,ABANDONED
+154,184,2024-02-14,RESEARCHED,0.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+155,134,2025-04-05,CONTINUED,1.8,,Plan a savings goal,Financial,OPEN/STALLED
+156,111,2023-07-12,PLANNED,0.0,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+157,65,2025-05-21,RESEARCHED,1.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+158,114,2023-12-12,RESEARCHED,0.3,,Compare insurance providers,Financial,OPEN/STALLED
+159,101,2024-10-03,CREATED,0.0,,Start a niche newsletter,Side Project,ABANDONED
+160,264,2023-02-16,CREATED,0.0,,Start a freelance side gig,Side Project,OPEN/STALLED
+161,60,2024-03-15,POSTPONED,0.0,Overestimated effort required,Start a photography project,Creative,REPLACED
+162,49,2024-03-13,CONTINUED,1.1,,Set up automatic savings,Financial,COMPLETED
+163,207,2025-05-02,CREATED,0.0,,Collect and organize a hobby set,Hobby,OPEN/STALLED
+164,316,2024-01-19,CREATED,0.0,,Plan a family visit,Relationships,ABANDONED
+165,38,2023-02-08,RESEARCHED,0.0,,WRITE SHORT STORIES WEEKLY,Creative,OPEN/STALLED
+166,188,2024-01-27,REPLACED,0.0,Replaced by a different priority,Contribute to an open-source project,Side Project,REPLACED
+167,163,2023-01-27,CREATED,0.0,,START A PUZZLE-SOLVING HABIT,Hobby,OPEN/STALLED
+168,203,2025-06-29,POSTPONED,0.0,Competing priorities,Track spending for a month,Financial,OPEN/STALLED
+169,39,2024-08-06,COMPLETED,0.0,,Start a freelance side gig,Side Project,COMPLETED
+170,197,2023-11-12,STARTED,0.0,,Write a long-overdue message,Relationships,COMPLETED
+171,268,2025-05-03,CREATED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+172,267,2024-02-24,PLANNED,0.0,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+173,306,2023-11-10,RESEARCHED,1.1,,Plan a road trip route,Travel,COMPLETED
+174,218,2025-04-22,CREATED,0.0,,Start a small garden,Hobby,OPEN/STALLED
+175,263,2024-01-27,CONTINUED,3.5,,Plan a family visit,Relationships,COMPLETED
+176,93,2023-02-17,CREATED,0.0,,Start daily stretching,Fitness & Health,OPEN/STALLED
+177,112,2024-07-31,CREATED,0.0,,JOIN A LOCAL SOCIAL GROUP,Relationships,OPEN/STALLED
+178,45,2023-12-23,POSTPONED,0.0,Lack of time,Write a long-overdue message,Relationships,OPEN/STALLED
+179,76,2023-12-07,CONTINUED,4.0,,Review and cut subscriptions,Financial,OPEN/STALLED
+180,274,2025-07-04,CONTINUED,60.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+181,214,2025-05-02,STARTED,0.0,,Plan a weekend getaway,Travel,COMPLETED
+182,212,2023-08-29,RESEARCHED,1.8,,Write a long-overdue message,Relationships,OPEN/STALLED
+183,219,2024-05-16,PLANNED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+184,237,2023-08-25,RESEARCHED,0.5,,Research flights for a trip,Travel,ABANDONED
+185,248,2024-07-23,CREATED,0.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+186,121,2023-05-28,PLANNED,0.0,,Start a home workout routine,Fitness & Health,OPEN/STALLED
+187,52,2023-04-03,RESEARCHED,0.0,,Build a portfolio website,Career,OPEN/STALLED
+188,111,2023-10-17,COMPLETED,0.0,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+189,291,2024-06-29,POSTPONED,0.0,No accountability,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+190,194,2024-03-20,CREATED,0.0,,WRITE SHORT STORIES WEEKLY,Creative,OPEN/STALLED
+191,267,2024-02-18,RESEARCHED,1.5,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+192,312,2023-12-30,CONTINUED,4.9,,Start a small blog,Side Project,COMPLETED
+193,1,2025-02-23,PLANNED,0.0,,Learn SQL properly,Learning & Skills,OPEN/STALLED
+194,99,2025-04-30,CREATED,0.0,,COLLECT AND ORGANIZE A HOBBY SET,Hobby,OPEN/STALLED
+195,291,2024-05-27,CONTINUED,0.4,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+196,241,2023-03-18,RESEARCHED,0.6,,Start journaling regularly,Hobby,ABANDONED
+197,31,2024-05-12,CREATED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+198,312,2024-04-08,POSTPONED,0.0,Low energy / burnout,Start a small blog,Side Project,COMPLETED
+199,76,2023-11-14,PLANNED,0.0,,Review and cut subscriptions,Financial,OPEN/STALLED
+200,53,2024-11-22,CREATED,0.0,,Start a houseplant collection,Hobby,OPEN/STALLED
+201,215,2023-06-17,RESEARCHED,1.0,,Research a relocation destination,Travel,OPEN/STALLED
+202,154,2024-12-04,RESEARCHED,1.5,,Redesign a personal art portfolio,Creative,OPEN/STALLED
+203,97,2025-06-08,PLANNED,0.0,,Prepare for technical interviews,Career,OPEN/STALLED
+204,120,2025-05-11,POSTPONED,0.0,Lack of motivation,Research flights for a trip,Travel,OPEN/STALLED
+205,183,2024-07-05,CREATED,0.0,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+206,108,2025-02-04,CREATED,0.0,,Repair a strained relationship,Relationships,OPEN/STALLED
+207,56,2024-03-04,RESEARCHED,2.4,,Redesign a personal art portfolio,Creative,ABANDONED
+208,168,2024-01-17,POSTPONED,0.0,Competing priorities,Learn conversational Spanish,Learning & Skills,ABANDONED
+209,146,2024-03-27,CREATED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+210,173,2023-11-17,CONTINUED,4.1,,Plan a solo trip,Travel,COMPLETED
+211,166,2024-04-01,RESEARCHED,0.0,,Start meditating daily,Fitness & Health,OPEN/STALLED
+212,8,2025-06-09,PLANNED,0.0,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+213,176,2024-05-09,RESEARCHED,0.6,,Write short stories weekly,Creative,ABANDONED
+214,31,2024-05-30,PLANNED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+215,50,2023-12-12,RESEARCHED,0.0,,Train for a 5k run,Fitness & Health,OPEN/STALLED
+216,276,2025-07-04,CONTINUED,60.0,,Try a new craft technique,Creative,COMPLETED
+217,319,2025-05-15,RESEARCHED,0.0,,RESEARCH INVESTMENT OPTIONS,Financial,OPEN/STALLED
+218,34,2025-01-17,CREATED,0.0,,Contribute to an open-source project,Side Project,OPEN/STALLED
+219,274,2025-06-08,RESEARCHED,0.5,,Learn touch typing,Learning & Skills,OPEN/STALLED
+220,168,2024-04-08,ABANDONED,0.0,Lost interest,Learn conversational Spanish,Learning & Skills,ABANDONED
+221,145,2023-04-16,CREATED,0.0,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+222,95,2024-03-31,POSTPONED,0.0,Lack of motivation,Repair a strained relationship,Relationships,ABANDONED
+223,227,2025-01-10,PLANNED,0.0,,Organize digital files,Home & Admin,ABANDONED
+224,274,2025-06-25,STARTED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+225,49,2023-10-20,CREATED,0.0,,Set up automatic savings,Financial,COMPLETED
+226,169,2025-05-05,RESEARCHED,0.9,,Compare insurance providers,Financial,ABANDONED
+227,150,2023-06-09,REPLACED,0.0,Replaced by a different priority,Read one book on statistics,Learning & Skills,REPLACED
+228,45,2023-12-27,PLANNED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+229,170,2024-05-12,CONTINUED,0.5,,Research a relocation destination,Travel,ABANDONED
+230,90,2024-04-16,RESEARCHED,2.2,,Learn key phrases for a trip,Travel,ABANDONED
+231,96,2024-01-28,POSTPONED,0.0,No accountability,Learn touch typing,Learning & Skills,COMPLETED
+232,65,2025-04-29,CREATED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+233,84,2023-06-30,COMPLETED,0.0,,Automate a recurring bill payment,Home & Admin,COMPLETED
+234,275,2024-02-20,RESEARCHED,1.8,,Start a small blog,Side Project,ABANDONED
+235,305,2024-02-25,CREATED,0.0,,Plan a solo trip,Travel,ABANDONED
+236,291,2024-03-07,RESEARCHED,0.5,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+237,298,2023-04-06,CREATED,0.0,,Reduce screen time before bed,Fitness & Health,ABANDONED
+238,55,2023-09-25,CREATED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+239,13,2023-08-03,CREATED,0.0,,Set up a filing system,Home & Admin,ABANDONED
+240,159,2023-03-03,CREATED,0.0,,Train for a 5k run,Fitness & Health,COMPLETED
+241,95,2024-07-14,ABANDONED,0.0,Blocked by dependency,Repair a strained relationship,Relationships,ABANDONED
+242,169,2025-06-05,RESEARCHED,0.5,,Compare insurance providers,Financial,ABANDONED
+243,7,2023-06-16,RESEARCHED,0.0,,Study for a certification exam,Learning & Skills,ABANDONED
+244,90,2024-05-11,RESEARCHED,3.9,,Learn key phrases for a trip,Travel,ABANDONED
+245,117,2024-11-14,RESEARCHED,1.9,,Deep clean the kitchen,Home & Admin,ABANDONED
+246,170,2023-11-23,RESEARCHED,0.2,,Research a relocation destination,Travel,ABANDONED
+247,267,2024-10-06,CONTINUED,9.0,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+248,20,2024-10-25,PLANNED,0.0,,Start a small garden,Hobby,COMPLETED
+249,57,2025-07-08,ABANDONED,0.0,Unclear next step,Research visa requirements,Travel,ABANDONED
+250,139,2024-01-09,RESEARCHED,1.7,,Build a personal dashboard,Side Project,ABANDONED
+251,198,2023-05-06,POSTPONED,0.0,Low energy / burnout,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+252,37,2023-01-08,CREATED,0.0,,Learn basic woodworking,Hobby,OPEN/STALLED
+253,130,2024-03-06,CONTINUED,0.8,,Start a puzzle-solving habit,Hobby,COMPLETED
+254,51,2023-02-26,RESEARCHED,0.0,,Organize digital files,Home & Admin,COMPLETED
+255,200,2025-02-04,ABANDONED,0.0,Lack of money,Start sketching daily,Creative,ABANDONED
+256,91,2024-06-09,COMPLETED,0.0,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+257,9,2024-11-11,CONTINUED,4.9,,Plan a family visit,Relationships,COMPLETED
+258,90,2024-04-04,RESEARCHED,0.5,,Learn key phrases for a trip,Travel,ABANDONED
+259,246,2023-06-08,RESEARCHED,0.0,,Set up automatic savings,Financial,OPEN/STALLED
+260,20,2024-09-02,RESEARCHED,3.1,,Start a small garden,Hobby,COMPLETED
+261,136,2025-01-02,RESEARCHED,2.3,,Prototype a small app idea,Side Project,OPEN/STALLED
+262,301,2023-03-21,CREATED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+263,298,2023-05-08,PLANNED,0.0,,Reduce screen time before bed,Fitness & Health,ABANDONED
+264,294,2025-01-11,CREATED,0.0,,Pay off a small debt,Financial,OPEN/STALLED
+265,224,2025-07-27,POSTPONED,0.0,Blocked by dependency,Start journaling regularly,Hobby,OPEN/STALLED
+266,40,2025-02-11,RESEARCHED,0.4,,BUILD AN AUTOMATION SCRIPT,Side Project,ABANDONED
+267,276,2025-03-29,RESEARCHED,1.2,,Try a new craft technique,Creative,COMPLETED
+268,179,2024-10-06,PLANNED,0.0,,Organize a small get-together,Relationships,ABANDONED
+269,161,2024-07-06,CREATED,0.0,,Learn the basics of investing,Financial,ABANDONED
+270,83,2024-12-04,CREATED,0.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+271,127,2024-09-15,POSTPONED,0.0,Competing priorities,Book a long-postponed trip,Travel,COMPLETED
+272,152,2023-11-01,CREATED,0.0,,Plan a trip itinerary,Travel,OPEN/STALLED
+273,147,2023-04-27,CREATED,0.0,,Track spending for a month,Financial,OPEN/STALLED
+274,120,2025-02-24,CREATED,0.0,,Research flights for a trip,Travel,OPEN/STALLED
+275,230,2023-10-01,RESEARCHED,1.5,,Ask for a performance review,Career,OPEN/STALLED
+276,299,2023-01-26,RESEARCHED,1.1,,Build an automation script,Side Project,OPEN/STALLED
+277,39,2023-12-19,POSTPONED,0.0,Lack of time,Start a freelance side gig,Side Project,COMPLETED
+278,73,2025-04-01,CREATED,0.0,,Update personal records,Home & Admin,OPEN/STALLED
+279,213,2023-10-19,RESEARCHED,0.4,,Build a personal dashboard,Side Project,REPLACED
+280,131,2023-11-11,RESEARCHED,2.2,,Track spending for a month,Financial,OPEN/STALLED
+281,214,2025-07-11,COMPLETED,0.0,,Plan a weekend getaway,Travel,COMPLETED
+282,91,2024-03-20,CONTINUED,3.5,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+283,317,2023-05-21,CREATED,0.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+284,129,2025-04-05,RESEARCHED,0.3,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+285,197,2023-09-08,CREATED,0.0,,Write a long-overdue message,Relationships,COMPLETED
+286,55,2023-11-14,POSTPONED,0.0,Overestimated effort required,Schedule regular calls with family,Relationships,COMPLETED
+287,193,2025-01-12,ABANDONED,0.0,Perfectionism / fear of failure,Build a personal data project,Side Project,ABANDONED
+288,289,2024-11-10,RESEARCHED,4.7,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+289,111,2023-07-21,STARTED,0.0,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+290,247,2025-05-29,CONTINUED,2.9,,Finish an online Python course,Learning & Skills,COMPLETED
+291,49,2023-12-19,STARTED,0.0,,Set up automatic savings,Financial,COMPLETED
+292,174,2023-05-05,CREATED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+293,267,2024-03-01,STARTED,0.0,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+294,20,2025-01-09,POSTPONED,0.0,Lack of money,Start a small garden,Hobby,COMPLETED
+295,266,2023-12-02,CREATED,0.0,,Pay off a small debt,Financial,OPEN/STALLED
+296,201,2024-12-02,RESEARCHED,3.1,,Plan a weekend getaway,Travel,OPEN/STALLED
+297,186,2025-02-21,POSTPONED,0.0,Unclear next step,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+298,106,2025-06-26,RESEARCHED,4.1,,Start a houseplant collection,Hobby,OPEN/STALLED
+299,237,2023-08-15,CREATED,0.0,,Research flights for a trip,Travel,ABANDONED
+300,182,2024-11-04,COMPLETED,0.0,,Plan a savings goal,Financial,COMPLETED
+301,130,2024-01-18,STARTED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+302,292,2025-03-23,RESEARCHED,2.4,,Start a houseplant collection,Hobby,ABANDONED
+303,198,2023-03-22,CREATED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+304,96,2024-03-16,COMPLETED,0.0,,Learn touch typing,Learning & Skills,COMPLETED
+305,38,2023-02-02,CREATED,0.0,,WRITE SHORT STORIES WEEKLY,Creative,OPEN/STALLED
+306,234,2023-06-29,CONTINUED,1.1,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+307,302,2025-08-01,ABANDONED,0.0,Overestimated effort required,Build a personal dashboard,Side Project,ABANDONED
+308,219,2024-05-03,RESEARCHED,1.9,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+309,222,2023-06-01,STARTED,0.0,,Research a relocation destination,Travel,REPLACED
+310,69,2023-05-05,CONTINUED,1.1,,Call an old friend,Relationships,REPLACED
+311,306,2023-11-21,PLANNED,0.0,,Plan a road trip route,Travel,COMPLETED
+312,221,2023-08-15,CONTINUED,4.9,,Plan a family visit,Relationships,COMPLETED
+313,55,2023-10-05,RESEARCHED,0.3,,Schedule regular calls with family,Relationships,COMPLETED
+314,158,2024-07-12,RESEARCHED,0.4,,Plan a family visit,Relationships,ABANDONED
+315,228,2023-10-10,CREATED,0.0,,Research career change options,Career,OPEN/STALLED
+316,57,2025-02-08,CREATED,0.0,,Research visa requirements,Travel,ABANDONED
+317,54,2024-10-13,RESEARCHED,0.3,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+318,277,2023-08-24,STARTED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+319,127,2024-03-19,CREATED,0.0,,Book a long-postponed trip,Travel,COMPLETED
+320,277,2023-07-25,RESEARCHED,0.3,,Build a personal dashboard,Side Project,COMPLETED
+321,227,2025-05-19,ABANDONED,0.0,Unclear next step,Organize digital files,Home & Admin,ABANDONED
+322,185,2024-09-28,STARTED,0.0,,Start a photography project,Creative,COMPLETED
+323,9,2024-10-23,CONTINUED,3.8,,Plan a family visit,Relationships,COMPLETED
+324,185,2024-11-13,COMPLETED,0.0,,Start a photography project,Creative,COMPLETED
+325,246,2023-06-29,POSTPONED,0.0,Unclear next step,Set up automatic savings,Financial,OPEN/STALLED
+326,179,2025-01-03,ABANDONED,0.0,Unclear next step,Organize a small get-together,Relationships,ABANDONED
+327,263,2023-10-18,CREATED,0.0,,Plan a family visit,Relationships,COMPLETED
+328,61,2024-11-14,CREATED,0.0,,Learn basic calligraphy,Hobby,COMPLETED
+329,130,2024-01-31,CONTINUED,3.9,,Start a puzzle-solving habit,Hobby,COMPLETED
+330,43,2023-04-13,PLANNED,0.0,,Get a professional certification,Career,ABANDONED
+331,284,2024-05-08,ABANDONED,0.0,Lack of motivation,Track spending for a month,Financial,ABANDONED
+332,41,2025-05-17,RESEARCHED,0.6,,Try a new craft technique,Creative,OPEN/STALLED
+333,54,2024-11-07,PLANNED,0.0,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+334,5,2024-09-30,RESEARCHED,0.9,,Start sketching daily,Creative,ABANDONED
+335,227,2024-12-19,RESEARCHED,1.1,,Organize digital files,Home & Admin,ABANDONED
+336,139,2024-02-06,RESEARCHED,1.2,,Build a personal dashboard,Side Project,ABANDONED
+337,141,2024-01-03,PLANNED,0.0,,Read one book on statistics,Learning & Skills,ABANDONED
+338,214,2025-02-03,CREATED,0.0,,Plan a weekend getaway,Travel,COMPLETED
+339,254,2023-03-04,RESEARCHED,0.6,,Start a puzzle-solving habit,Hobby,COMPLETED
+340,196,2025-05-03,POSTPONED,0.0,Lost interest,Ask for a performance review,Career,REPLACED
+341,58,2024-08-25,RESEARCHED,1.7,,Plan a weekend getaway,Travel,OPEN/STALLED
+342,26,2024-06-11,RESEARCHED,2.5,,Ask for a performance review,Career,ABANDONED
+343,293,2023-04-07,CREATED,0.0,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+344,271,2025-01-10,RESEARCHED,1.1,,Start a small garden,Hobby,ABANDONED
+345,76,2023-09-28,RESEARCHED,0.8,,Review and cut subscriptions,Financial,OPEN/STALLED
+346,25,2024-01-31,CONTINUED,2.8,,Renew an expiring document,Home & Admin,COMPLETED
+347,308,2025-04-14,POSTPONED,0.0,Unclear next step,Try a new craft technique,Creative,COMPLETED
+348,129,2025-05-03,POSTPONED,0.0,Lack of motivation,Learn a card or board game deeply,Hobby,OPEN/STALLED
+349,76,2024-02-01,POSTPONED,0.0,Blocked by dependency,Review and cut subscriptions,Financial,OPEN/STALLED
+350,186,2025-02-01,CREATED,0.0,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+351,250,2024-11-09,POSTPONED,0.0,Lack of money,Prepare for technical interviews,Career,OPEN/STALLED
+352,176,2024-04-17,CREATED,0.0,,Write short stories weekly,Creative,ABANDONED
+353,86,2024-11-21,RESEARCHED,1.4,,Start a freelance side gig,Side Project,REPLACED
+354,252,2025-07-08,RESEARCHED,7.4,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+355,11,2025-05-31,RESEARCHED,5.4,,CREATE A MONTHLY BUDGET,Financial,OPEN/STALLED
+356,133,2024-03-07,STARTED,0.0,,Learn key phrases for a trip,Travel,ABANDONED
+357,178,2023-09-07,CREATED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+358,119,2024-04-29,CREATED,0.0,,Restore an old creative project,Creative,OPEN/STALLED
+359,281,2023-12-16,RESEARCHED,0.0,,Start a reading challenge,Hobby,OPEN/STALLED
+360,41,2025-05-05,RESEARCHED,1.1,,Try a new craft technique,Creative,OPEN/STALLED
+361,130,2023-12-15,RESEARCHED,1.1,,Start a puzzle-solving habit,Hobby,COMPLETED
+362,243,2025-05-23,CREATED,0.0,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+363,271,2024-12-27,CREATED,0.0,,Start a small garden,Hobby,ABANDONED
+364,161,2024-07-14,PLANNED,0.0,,Learn the basics of investing,Financial,ABANDONED
+365,169,2025-07-09,ABANDONED,0.0,Lack of time,Compare insurance providers,Financial,ABANDONED
+366,77,2025-06-04,CREATED,0.0,,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+367,213,2023-12-13,REPLACED,60.0,Replaced by a different priority,Build a personal dashboard,Side Project,REPLACED
+368,59,2024-09-15,ABANDONED,0.0,No accountability,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+369,45,2023-11-05,RESEARCHED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+370,198,2023-04-08,RESEARCHED,0.4,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+371,80,2023-03-31,RESEARCHED,1.7,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+372,225,2024-07-25,REPLACED,0.0,Replaced by a different priority,Plan a road trip route,Travel,REPLACED
+373,111,2023-06-27,RESEARCHED,2.5,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+374,101,2025-03-10,CONTINUED,1.9,,Start a niche newsletter,Side Project,ABANDONED
+375,174,2023-09-19,CONTINUED,1.3,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+376,282,2023-06-27,CONTINUED,1.7,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+377,208,2025-04-01,CREATED,0.0,,Restore an old creative project,Creative,OPEN/STALLED
+378,25,2024-01-21,CONTINUED,13.8,,Renew an expiring document,Home & Admin,COMPLETED
+379,171,2024-12-23,STARTED,0.0,,Build a personal data project,Side Project,COMPLETED
+380,204,2023-08-31,CREATED,0.0,,Research a relocation destination,Travel,OPEN/STALLED
+381,91,2023-11-23,RESEARCHED,0.4,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+382,47,2023-06-20,CREATED,0.0,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+383,186,2025-03-16,STARTED,0.0,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+384,197,2024-01-01,CONTINUED,0.7,,Write a long-overdue message,Relationships,COMPLETED
+385,100,2024-06-16,POSTPONED,0.0,Overestimated effort required,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+386,39,2024-04-03,CONTINUED,3.1,,Start a freelance side gig,Side Project,COMPLETED
+387,223,2024-03-09,STARTED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+388,62,2024-01-21,ABANDONED,0.0,Lack of time,Learn conversational Spanish,Learning & Skills,ABANDONED
+389,212,2023-11-29,CONTINUED,0.6,,Write a long-overdue message,Relationships,OPEN/STALLED
+390,245,2025-02-08,PLANNED,0.0,,Send a thank-you note,Relationships,ABANDONED
+391,189,2024-04-12,CREATED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+392,97,2025-05-31,RESEARCHED,0.6,,Prepare for technical interviews,Career,OPEN/STALLED
+393,107,2024-01-07,PLANNED,0.0,,Plan a solo trip,Travel,ABANDONED
+394,219,2024-06-06,CONTINUED,1.6,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+395,45,2023-11-24,RESEARCHED,0.6,,Write a long-overdue message,Relationships,OPEN/STALLED
+396,221,2023-09-06,COMPLETED,0.0,,Plan a family visit,Relationships,COMPLETED
+397,182,2024-08-28,RESEARCHED,0.3,,Plan a savings goal,Financial,COMPLETED
+398,238,2024-04-21,RESEARCHED,0.8,,Start a freelance side gig,Side Project,OPEN/STALLED
+399,233,2023-08-22,ABANDONED,0.0,No accountability,Review and cut subscriptions,Financial,ABANDONED
+400,213,2023-10-27,RESEARCHED,0.7,,Build a personal dashboard,Side Project,REPLACED
+401,190,2024-04-29,RESEARCHED,0.8,,Train for a 5k run,Fitness & Health,ABANDONED
+402,94,2025-06-26,CREATED,0.0,,Plan a trip itinerary,Travel,OPEN/STALLED
+403,185,2024-09-14,RESEARCHED,0.6,,Start a photography project,Creative,COMPLETED
+404,85,2024-12-02,PLANNED,0.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+405,306,2024-04-16,COMPLETED,0.0,,Plan a road trip route,Travel,COMPLETED
+406,307,2023-09-04,RESEARCHED,1.3,,Learn a new design software,Creative,OPEN/STALLED
+407,125,2023-12-23,RESEARCHED,5.6,,Start a houseplant collection,Hobby,OPEN/STALLED
+408,26,2024-09-08,CONTINUED,0.5,,Ask for a performance review,Career,ABANDONED
+409,40,2025-03-25,ABANDONED,0.0,Lost interest,BUILD AN AUTOMATION SCRIPT,Side Project,ABANDONED
+410,137,2023-04-29,RESEARCHED,2.5,,Plan a solo trip,Travel,OPEN/STALLED
+411,33,2025-06-24,RESEARCHED,2.3,,Compare insurance providers,Financial,OPEN/STALLED
+412,287,2024-11-14,RESEARCHED,0.5,,Plan a road trip route,Travel,ABANDONED
+413,298,2023-07-07,ABANDONED,0.0,Unclear next step,Reduce screen time before bed,Fitness & Health,ABANDONED
+414,59,2024-06-25,PLANNED,0.0,,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+415,312,2024-02-19,CONTINUED,1.0,,Start a small blog,Side Project,COMPLETED
+416,101,2024-11-04,POSTPONED,0.0,Competing priorities,Start a niche newsletter,Side Project,ABANDONED
+417,150,2023-05-21,RESEARCHED,0.3,,Read one book on statistics,Learning & Skills,REPLACED
+418,288,2023-05-16,STARTED,0.0,,Build a portfolio project,Side Project,OPEN/STALLED
+419,267,2024-04-03,CONTINUED,0.0,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+420,67,2023-04-25,CREATED,0.0,,Build a portfolio project,Side Project,OPEN/STALLED
+421,8,2025-05-24,POSTPONED,0.0,Overestimated effort required,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+422,248,2024-07-30,RESEARCHED,0.2,,Renew an expiring document,Home & Admin,OPEN/STALLED
+423,133,2024-02-14,POSTPONED,0.0,Competing priorities,Learn key phrases for a trip,Travel,ABANDONED
+424,107,2024-02-05,ABANDONED,0.0,Lost interest,Plan a solo trip,Travel,ABANDONED
+425,103,2023-11-01,ABANDONED,0.0,Unclear next step,Improve sleep schedule,Fitness & Health,ABANDONED
+426,229,2024-10-19,CREATED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+427,312,2023-10-28,RESEARCHED,0.8,,Start a small blog,Side Project,COMPLETED
+428,115,2025-02-09,CREATED,60.0,,Reconnect with a former colleague,Relationships,OPEN/STALLED
+429,218,2025-05-31,PLANNED,0.0,,Start a small garden,Hobby,OPEN/STALLED
+430,197,2023-09-28,RESEARCHED,2.6,,Write a long-overdue message,Relationships,COMPLETED
+431,131,2023-09-07,CREATED,0.0,,Track spending for a month,Financial,OPEN/STALLED
+432,29,2025-07-09,RESEARCHED,0.7,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+433,197,2023-11-29,CONTINUED,2.8,,Write a long-overdue message,Relationships,COMPLETED
+434,128,2023-06-30,CREATED,0.0,,Start daily stretching,Fitness & Health,OPEN/STALLED
+435,228,2023-10-27,RESEARCHED,1.1,,Research career change options,Career,OPEN/STALLED
+436,313,2023-06-18,RESEARCHED,0.0,,Research flights for a trip,Travel,ABANDONED
+437,117,2024-10-27,CREATED,0.0,,Deep clean the kitchen,Home & Admin,ABANDONED
+438,160,2024-06-01,RESEARCHED,0.0,,Research a relocation destination,Travel,OPEN/STALLED
+439,34,2025-03-03,RESEARCHED,1.0,,Contribute to an open-source project,Side Project,OPEN/STALLED
+440,25,2023-12-27,STARTED,0.0,,Renew an expiring document,Home & Admin,COMPLETED
+441,227,2025-03-18,CONTINUED,2.2,,Organize digital files,Home & Admin,ABANDONED
+442,187,2024-05-22,CREATED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+443,125,2023-12-22,CREATED,0.0,,Start a houseplant collection,Hobby,OPEN/STALLED
+444,144,2024-01-28,ABANDONED,0.0,Perfectionism / fear of failure,Learn salary negotiation,Career,ABANDONED
+445,165,2025-03-02,CONTINUED,6.7,,Research flights for a trip,Travel,OPEN/STALLED
+446,295,2024-08-19,CREATED,0.0,,Organize digital files,Home & Admin,OPEN/STALLED
+447,158,2024-10-09,ABANDONED,0.0,Lack of money,Plan a family visit,Relationships,ABANDONED
+448,190,2024-05-10,ABANDONED,0.0,Lack of time,Train for a 5k run,Fitness & Health,ABANDONED
+449,157,2025-02-08,POSTPONED,0.0,Perfectionism / fear of failure,Research a relocation destination,Travel,COMPLETED
+450,157,2025-06-07,POSTPONED,0.0,Lack of time,Research a relocation destination,Travel,COMPLETED
+451,157,2024-12-04,CREATED,0.0,,Research a relocation destination,Travel,COMPLETED
+452,306,2023-11-15,RESEARCHED,1.1,,Plan a road trip route,Travel,COMPLETED
+453,312,2023-10-19,CREATED,0.0,,Start a small blog,Side Project,COMPLETED
+454,134,2025-02-19,RESEARCHED,1.8,,Plan a savings goal,Financial,OPEN/STALLED
+455,276,2025-05-30,CONTINUED,5.9,,Try a new craft technique,Creative,COMPLETED
+456,96,2023-10-28,CONTINUED,1.5,,Learn touch typing,Learning & Skills,COMPLETED
+457,298,2023-04-29,RESEARCHED,1.5,,Reduce screen time before bed,Fitness & Health,ABANDONED
+458,181,2023-10-01,CREATED,0.0,,Update personal records,Home & Admin,OPEN/STALLED
+459,130,2024-05-09,CONTINUED,4.6,,Start a puzzle-solving habit,Hobby,COMPLETED
+460,250,2024-10-16,RESEARCHED,3.2,,Prepare for technical interviews,Career,OPEN/STALLED
+461,212,2023-09-15,STARTED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+462,244,2025-06-28,CREATED,0.0,,Schedule regular calls with family,Relationships,OPEN/STALLED
+463,100,2024-06-02,RESEARCHED,0.8,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+464,232,2025-04-11,RESEARCHED,2.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+465,269,2025-07-13,PLANNED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+466,144,2023-10-26,RESEARCHED,1.9,,Learn salary negotiation,Career,ABANDONED
+467,77,2025-07-17,PLANNED,0.0,,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+468,141,2023-12-14,RESEARCHED,1.5,,Read one book on statistics,Learning & Skills,ABANDONED
+469,221,2023-07-18,STARTED,0.0,,Plan a family visit,Relationships,COMPLETED
+470,267,2024-04-10,CONTINUED,6.1,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+471,311,2025-06-14,CREATED,0.0,,Build a portfolio website,Career,ABANDONED
+472,104,2024-02-29,CREATED,0.0,,Learn to play an instrument,Creative,OPEN/STALLED
+473,51,2023-03-25,STARTED,0.0,,Organize digital files,Home & Admin,COMPLETED
+474,20,2025-04-04,CONTINUED,3.1,,Start a small garden,Hobby,COMPLETED
+475,81,2024-09-12,CREATED,0.0,,SELL UNUSED ITEMS ONLINE,Home & Admin,OPEN/STALLED
+476,96,2023-09-03,POSTPONED,0.0,Lost interest,Learn touch typing,Learning & Skills,COMPLETED
+477,314,2025-06-24,CREATED,0.0,,Start sketching daily,Creative,OPEN/STALLED
+478,316,2024-02-06,RESEARCHED,0.8,,Plan a family visit,Relationships,ABANDONED
+479,69,2023-02-12,CREATED,0.0,,Call an old friend,Relationships,REPLACED
+480,230,2023-10-04,RESEARCHED,2.0,,Ask for a performance review,Career,OPEN/STALLED
+481,223,2024-04-28,CONTINUED,0.5,,Schedule regular calls with family,Relationships,COMPLETED
+482,76,2023-11-23,STARTED,0.0,,Review and cut subscriptions,Financial,OPEN/STALLED
+483,84,2023-05-14,STARTED,0.0,,Automate a recurring bill payment,Home & Admin,COMPLETED
+484,271,2025-01-26,RESEARCHED,1.8,,Start a small garden,Hobby,ABANDONED
+485,48,2023-03-03,RESEARCHED,0.3,,Enter a local art competition,Creative,OPEN/STALLED
+486,74,2025-04-08,RESEARCHED,6.4,,Build an emergency fund,Financial,OPEN/STALLED
+487,223,2024-06-19,COMPLETED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+488,313,2023-07-06,RESEARCHED,2.0,,Research flights for a trip,Travel,ABANDONED
+489,185,2024-09-19,PLANNED,0.0,,Start a photography project,Creative,COMPLETED
+490,187,2024-05-26,RESEARCHED,1.2,,Write a long-overdue message,Relationships,OPEN/STALLED
+491,41,2025-06-05,STARTED,0.0,,Try a new craft technique,Creative,OPEN/STALLED
+492,123,2024-12-08,CREATED,0.0,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+493,266,2023-12-25,RESEARCHED,2.1,,Pay off a small debt,Financial,OPEN/STALLED
+494,215,2023-06-23,RESEARCHED,1.3,,Research a relocation destination,Travel,OPEN/STALLED
+495,156,2023-08-26,CREATED,0.0,,Build an emergency fund,Financial,OPEN/STALLED
+496,226,2023-10-30,REPLACED,0.0,Replaced by a different priority,Ask for a performance review,Career,REPLACED
+497,123,2024-12-16,RESEARCHED,0.5,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+498,58,2024-08-31,RESEARCHED,1.4,,Plan a weekend getaway,Travel,OPEN/STALLED
+499,249,2023-12-29,CREATED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+500,43,2023-06-05,ABANDONED,0.0,Low energy / burnout,Get a professional certification,Career,ABANDONED
+501,157,2025-02-27,PLANNED,0.0,,Research a relocation destination,Travel,COMPLETED
+502,125,2024-01-05,RESEARCHED,0.8,,Start a houseplant collection,Hobby,OPEN/STALLED
+503,206,2024-08-02,CREATED,0.0,,BUILD AN EMERGENCY FUND,Financial,ABANDONED
+504,247,2025-05-31,CONTINUED,1.3,,Finish an online Python course,Learning & Skills,COMPLETED
+505,80,2023-02-09,CREATED,0.0,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+506,60,2023-12-01,STARTED,0.0,,Start a photography project,Creative,REPLACED
+507,55,2023-11-30,PLANNED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+508,209,2024-11-25,CREATED,0.0,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+509,231,2023-08-02,RESEARCHED,0.5,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+510,227,2025-02-11,CONTINUED,3.5,,Organize digital files,Home & Admin,ABANDONED
+511,61,2024-12-25,RESEARCHED,0.8,,Learn basic calligraphy,Hobby,COMPLETED
+512,226,2023-08-13,RESEARCHED,0.5,,Ask for a performance review,Career,REPLACED
+513,130,2024-03-20,CONTINUED,1.2,,Start a puzzle-solving habit,Hobby,COMPLETED
+514,111,2023-05-11,CREATED,0.0,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+515,59,2024-06-02,CREATED,0.0,,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+516,276,2025-03-12,RESEARCHED,4.4,,Try a new craft technique,Creative,COMPLETED
+517,219,2024-07-21,CONTINUED,4.5,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+518,43,2023-03-04,CREATED,0.0,,Get a professional certification,Career,ABANDONED
+519,11,2025-05-31,RESEARCHED,5.4,,CREATE A MONTHLY BUDGET,Financial,OPEN/STALLED
+520,245,2025-01-17,CREATED,0.0,,Send a thank-you note,Relationships,ABANDONED
+521,48,2023-03-23,RESEARCHED,2.6,,Enter a local art competition,Creative,OPEN/STALLED
+522,91,2023-12-22,STARTED,0.0,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+523,133,2024-01-19,RESEARCHED,0.8,,Learn key phrases for a trip,Travel,ABANDONED
+524,297,2024-02-21,RESEARCHED,1.3,,Learn the basics of investing,Financial,ABANDONED
+525,196,2025-04-12,RESEARCHED,0.5,,Ask for a performance review,Career,REPLACED
+526,130,2024-06-23,CONTINUED,2.1,,Start a puzzle-solving habit,Hobby,COMPLETED
+527,302,2025-05-11,RESEARCHED,1.3,,Build a personal dashboard,Side Project,ABANDONED
+528,173,2023-08-18,STARTED,0.0,,Plan a solo trip,Travel,COMPLETED
+529,73,2025-06-01,STARTED,0.0,,Update personal records,Home & Admin,OPEN/STALLED
+530,219,2024-09-12,CONTINUED,1.7,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+531,195,2025-02-27,ABANDONED,0.0,Lack of money,BOOK A LONG-POSTPONED TRIP,Travel,ABANDONED
+532,20,2024-09-20,RESEARCHED,0.0,,Start a small garden,Hobby,COMPLETED
+533,14,2024-08-13,REPLACED,0.0,Replaced by a different priority,Start journaling regularly,Hobby,REPLACED
+534,150,2023-05-02,CREATED,0.0,,Read one book on statistics,Learning & Skills,REPLACED
+535,77,2025-06-28,RESEARCHED,0.8,,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+536,140,2023-10-05,CREATED,0.0,,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+537,65,2025-06-10,STARTED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+538,57,2025-02-24,RESEARCHED,0.5,,Research visa requirements,Travel,ABANDONED
+539,9,2024-12-29,CONTINUED,0.7,,Plan a family visit,Relationships,COMPLETED
+540,90,2024-08-29,ABANDONED,0.0,No accountability,Learn key phrases for a trip,Travel,ABANDONED
+541,221,2023-06-14,RESEARCHED,2.3,,Plan a family visit,Relationships,COMPLETED
+542,262,2025-02-12,CREATED,0.0,,RESEARCH INVESTMENT OPTIONS,Financial,OPEN/STALLED
+543,220,2024-10-25,CREATED,0.0,,TRY A NEW RECIPE EVERY WEEK,Hobby,OPEN/STALLED
+544,56,2024-05-23,ABANDONED,0.0,Lack of motivation,Redesign a personal art portfolio,Creative,ABANDONED
+545,18,2024-05-02,PLANNED,0.0,,Learn a new design software,Creative,ABANDONED
+546,8,2025-04-06,CREATED,0.0,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+547,84,2023-03-13,CREATED,0.0,,Automate a recurring bill payment,Home & Admin,COMPLETED
+548,172,2023-08-19,POSTPONED,0.0,Lack of motivation,Call an old friend,Relationships,OPEN/STALLED
+549,7,2023-05-04,RESEARCHED,3.0,,Study for a certification exam,Learning & Skills,ABANDONED
+550,247,2025-05-01,CREATED,0.0,,Finish an online Python course,Learning & Skills,COMPLETED
+551,303,2023-05-26,RESEARCHED,2.8,,Automate a recurring bill payment,Home & Admin,OPEN/STALLED
+552,76,2023-10-30,RESEARCHED,0.5,,Review and cut subscriptions,Financial,OPEN/STALLED
+553,101,2024-11-11,PLANNED,0.0,,Start a niche newsletter,Side Project,ABANDONED
+554,276,2025-05-16,STARTED,0.0,,Try a new craft technique,Creative,COMPLETED
+555,223,2024-01-15,CREATED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+556,50,2024-01-01,RESEARCHED,3.3,,Train for a 5k run,Fitness & Health,OPEN/STALLED
+557,316,2024-05-21,CONTINUED,0.8,,Plan a family visit,Relationships,ABANDONED
+558,136,2024-12-08,CREATED,0.0,,Prototype a small app idea,Side Project,OPEN/STALLED
+559,305,2024-03-19,RESEARCHED,1.1,,Plan a solo trip,Travel,ABANDONED
+560,158,2024-07-11,CREATED,0.0,,Plan a family visit,Relationships,ABANDONED
+561,25,2024-04-12,CONTINUED,1.1,,Renew an expiring document,Home & Admin,COMPLETED
+562,268,2025-06-24,PLANNED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+563,27,2023-06-27,RESEARCHED,0.4,,Pay off a small debt,Financial,ABANDONED
+564,223,2024-04-10,CONTINUED,1.3,,Schedule regular calls with family,Relationships,COMPLETED
+565,254,2023-04-08,PLANNED,60.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+566,254,2023-02-21,RESEARCHED,2.6,,Start a puzzle-solving habit,Hobby,COMPLETED
+567,123,2025-01-29,RESEARCHED,3.2,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+568,219,2024-04-27,CREATED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+569,106,2025-07-24,PLANNED,0.0,,Start a houseplant collection,Hobby,OPEN/STALLED
+570,17,2023-04-20,RESEARCHED,2.5,,Send a thank-you note,Relationships,ABANDONED
+571,221,2023-05-24,CREATED,0.0,,Plan a family visit,Relationships,COMPLETED
+572,274,2025-06-12,PLANNED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+573,182,2024-09-07,PLANNED,0.0,,Plan a savings goal,Financial,COMPLETED
+574,130,2024-03-03,POSTPONED,0.0,Lost interest,Start a puzzle-solving habit,Hobby,COMPLETED
+575,69,2023-03-20,PLANNED,0.0,,Call an old friend,Relationships,REPLACED
+576,159,2023-04-05,POSTPONED,0.0,Overestimated effort required,Train for a 5k run,Fitness & Health,COMPLETED
+577,20,2024-10-05,POSTPONED,0.0,Blocked by dependency,Start a small garden,Hobby,COMPLETED
+578,268,2025-05-26,RESEARCHED,2.3,,Build a personal dashboard,Side Project,COMPLETED
+579,96,2023-09-20,PLANNED,0.0,,Learn touch typing,Learning & Skills,COMPLETED
+580,85,2024-12-19,CONTINUED,7.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+581,82,2023-10-02,RESEARCHED,0.6,,Organize a small get-together,Relationships,OPEN/STALLED
+582,20,2025-03-13,POSTPONED,0.0,Lack of money,Start a small garden,Hobby,COMPLETED
+583,63,2025-01-22,ABANDONED,0.0,Perfectionism / fear of failure,Research investment options,Financial,ABANDONED
+584,309,2025-04-27,PLANNED,0.0,,Plan a weekend getaway,Travel,OPEN/STALLED
+585,165,2025-01-02,PLANNED,0.0,,Research flights for a trip,Travel,OPEN/STALLED
+586,171,2025-01-14,COMPLETED,0.0,,Build a personal data project,Side Project,COMPLETED
+587,27,2023-10-09,ABANDONED,0.0,Lack of motivation,Pay off a small debt,Financial,ABANDONED
+588,106,2025-05-27,CREATED,0.0,,Start a houseplant collection,Hobby,OPEN/STALLED
+589,297,2024-02-11,RESEARCHED,0.4,,Learn the basics of investing,Financial,ABANDONED
+590,280,2024-04-20,CREATED,0.0,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+591,69,2023-03-02,RESEARCHED,0.7,,Call an old friend,Relationships,REPLACED
+592,158,2024-07-26,RESEARCHED,0.9,,Plan a family visit,Relationships,ABANDONED
+593,76,2024-01-16,POSTPONED,0.0,No accountability,Review and cut subscriptions,Financial,OPEN/STALLED
+594,318,2024-10-26,PLANNED,0.0,,Plan a trip itinerary,Travel,ABANDONED
+595,190,2024-04-25,CREATED,0.0,,Train for a 5k run,Fitness & Health,ABANDONED
+596,85,2025-02-11,CONTINUED,2.2,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+597,319,2025-05-09,RESEARCHED,1.0,,RESEARCH INVESTMENT OPTIONS,Financial,OPEN/STALLED
+598,130,2024-05-22,CONTINUED,3.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+599,257,2023-09-21,POSTPONED,0.0,Overestimated effort required,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+600,100,2024-05-17,RESEARCHED,1.3,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+601,70,2024-12-31,REPLACED,0.0,Replaced by a different priority,Fix a recurring household issue,Home & Admin,REPLACED
+602,252,2025-07-27,POSTPONED,0.0,Unclear next step,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+603,170,2024-01-19,STARTED,0.0,,Research a relocation destination,Travel,ABANDONED
+604,25,2024-05-10,CONTINUED,0.0,,Renew an expiring document,Home & Admin,COMPLETED
+605,19,2023-05-23,CREATED,0.0,,Start a home workout routine,Fitness & Health,OPEN/STALLED
+606,318,2024-11-29,ABANDONED,0.0,Competing priorities,Plan a trip itinerary,Travel,ABANDONED
+607,85,2025-01-17,CONTINUED,3.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+608,54,2024-08-15,CREATED,0.0,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+609,235,2023-10-09,RESEARCHED,3.3,,Get a professional certification,Career,OPEN/STALLED
+610,288,2023-04-24,PLANNED,0.0,,Build a portfolio project,Side Project,OPEN/STALLED
+611,85,2025-02-09,CONTINUED,9.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+612,112,2024-08-01,RESEARCHED,0.4,,JOIN A LOCAL SOCIAL GROUP,Relationships,OPEN/STALLED
+613,133,2024-04-16,ABANDONED,0.0,Lost interest,Learn key phrases for a trip,Travel,ABANDONED
+614,282,2023-07-20,CONTINUED,0.0,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+615,121,2023-04-21,CREATED,0.0,,Start a home workout routine,Fitness & Health,OPEN/STALLED
+616,286,2024-08-12,RESEARCHED,0.3,,Plan a road trip route,Travel,OPEN/STALLED
+617,20,2025-04-20,COMPLETED,0.0,,Start a small garden,Hobby,COMPLETED
+618,164,2023-02-11,CREATED,0.0,,PLAN A SAVINGS GOAL,Financial,OPEN/STALLED
+619,188,2023-12-06,CREATED,0.0,,Contribute to an open-source project,Side Project,REPLACED
+620,65,2025-05-26,PLANNED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+621,171,2024-11-04,CREATED,0.0,,Build a personal data project,Side Project,COMPLETED
+622,39,2024-01-31,STARTED,0.0,,Start a freelance side gig,Side Project,COMPLETED
+623,200,2024-10-30,RESEARCHED,1.1,,Start sketching daily,Creative,ABANDONED
+624,76,2024-01-19,CONTINUED,1.4,,Review and cut subscriptions,Financial,OPEN/STALLED
+625,23,2024-09-02,CREATED,0.0,,Reconnect with a former colleague,Relationships,OPEN/STALLED
+626,46,2023-04-11,CREATED,0.0,,Plan a road trip route,Travel,OPEN/STALLED
+627,3,2023-08-31,RESEARCHED,1.0,,Apply to 10 jobs abroad,Career,ABANDONED
+628,20,2024-09-24,RESEARCHED,0.0,,Start a small garden,Hobby,COMPLETED
+629,308,2025-01-07,PLANNED,0.0,,Try a new craft technique,Creative,COMPLETED
+630,312,2024-04-24,CONTINUED,4.8,,Start a small blog,Side Project,COMPLETED
+631,288,2023-04-04,RESEARCHED,0.3,,Build a portfolio project,Side Project,OPEN/STALLED
+632,135,2023-04-18,RESEARCHED,2.3,,Prototype a small app idea,Side Project,COMPLETED
+633,303,2023-06-12,RESEARCHED,0.7,,Automate a recurring bill payment,Home & Admin,OPEN/STALLED
+634,234,2023-07-22,CONTINUED,0.9,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+635,282,2023-08-16,CONTINUED,0.4,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+636,173,2023-10-15,CONTINUED,3.9,,Plan a solo trip,Travel,COMPLETED
+637,26,2024-08-04,CONTINUED,1.8,,Ask for a performance review,Career,ABANDONED
+638,288,2023-03-13,RESEARCHED,0.0,,Build a portfolio project,Side Project,OPEN/STALLED
+639,223,2024-02-21,RESEARCHED,1.3,,Schedule regular calls with family,Relationships,COMPLETED
+640,127,2024-04-05,RESEARCHED,0.4,,Book a long-postponed trip,Travel,COMPLETED
+641,274,2025-05-18,RESEARCHED,1.4,,Learn touch typing,Learning & Skills,OPEN/STALLED
+642,60,2024-05-27,REPLACED,0.0,Replaced by a different priority,Start a photography project,Creative,REPLACED
+643,91,2023-11-11,RESEARCHED,5.1,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+644,115,2025-02-22,RESEARCHED,0.7,,Reconnect with a former colleague,Relationships,OPEN/STALLED
+645,290,2024-06-19,CREATED,0.0,,Research flights for a trip,Travel,OPEN/STALLED
+646,96,2023-12-07,CONTINUED,0.4,,Learn touch typing,Learning & Skills,COMPLETED
+647,227,2025-01-07,RESEARCHED,0.2,,Organize digital files,Home & Admin,ABANDONED
+648,282,2023-04-20,STARTED,0.0,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+649,189,2024-04-27,RESEARCHED,3.4,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+650,304,2025-05-25,RESEARCHED,3.1,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+651,233,2023-06-11,RESEARCHED,3.1,,Review and cut subscriptions,Financial,ABANDONED
+652,154,2024-11-07,CREATED,0.0,,Redesign a personal art portfolio,Creative,OPEN/STALLED
+653,85,2024-12-15,STARTED,0.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+654,307,2023-09-26,RESEARCHED,1.1,,Learn a new design software,Creative,OPEN/STALLED
+655,74,2025-03-29,RESEARCHED,3.9,,Build an emergency fund,Financial,OPEN/STALLED
+656,79,2025-07-11,RESEARCHED,0.4,,Update CV and LinkedIn profile,Career,OPEN/STALLED
+657,126,2024-11-19,RESEARCHED,0.3,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+658,241,2023-03-15,RESEARCHED,2.3,,Start journaling regularly,Hobby,ABANDONED
+659,199,2024-08-26,ABANDONED,0.0,Low energy / burnout,Try a new recipe every week,Hobby,ABANDONED
+660,74,2025-04-02,RESEARCHED,2.2,,Build an emergency fund,Financial,OPEN/STALLED
+661,117,2024-12-10,POSTPONED,0.0,Blocked by dependency,Deep clean the kitchen,Home & Admin,ABANDONED
+662,258,2024-01-31,RESEARCHED,2.7,,Renew an expiring document,Home & Admin,ABANDONED
+663,181,2023-10-25,POSTPONED,0.0,Lack of time,Update personal records,Home & Admin,OPEN/STALLED
+664,76,2023-12-16,CONTINUED,2.5,,Review and cut subscriptions,Financial,OPEN/STALLED
+665,200,2024-11-30,PLANNED,0.0,,Start sketching daily,Creative,ABANDONED
+666,9,2024-08-31,CONTINUED,3.7,,Plan a family visit,Relationships,COMPLETED
+667,304,2025-06-04,RESEARCHED,0.8,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+668,261,2024-05-24,PLANNED,0.0,,Create a travel budget,Travel,OPEN/STALLED
+669,197,2023-10-18,POSTPONED,0.0,Perfectionism / fear of failure,Write a long-overdue message,Relationships,COMPLETED
+670,18,2024-03-20,RESEARCHED,2.7,,Learn a new design software,Creative,ABANDONED
+671,170,2024-01-06,PLANNED,0.0,,Research a relocation destination,Travel,ABANDONED
+672,63,2024-10-16,RESEARCHED,1.2,,Research investment options,Financial,ABANDONED
+673,38,2023-02-24,PLANNED,0.0,,WRITE SHORT STORIES WEEKLY,Creative,OPEN/STALLED
+674,165,2025-03-12,CONTINUED,3.2,,Research flights for a trip,Travel,OPEN/STALLED
+675,306,2023-10-19,CREATED,0.0,,Plan a road trip route,Travel,COMPLETED
+676,39,2024-05-21,CONTINUED,4.1,,Start a freelance side gig,Side Project,COMPLETED
+677,165,2024-11-03,RESEARCHED,0.6,,Research flights for a trip,Travel,OPEN/STALLED
+678,16,2023-08-23,CREATED,0.0,,Declutter the apartment,Home & Admin,OPEN/STALLED
+679,291,2024-02-28,RESEARCHED,0.7,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+680,249,2024-01-20,RESEARCHED,0.3,,Learn touch typing,Learning & Skills,OPEN/STALLED
+681,49,2024-04-05,COMPLETED,0.0,,Set up automatic savings,Financial,COMPLETED
+682,216,2024-01-10,CREATED,60.0,,Repair a strained relationship,Relationships,OPEN/STALLED
+683,26,2024-09-23,POSTPONED,0.0,Lack of motivation,Ask for a performance review,Career,ABANDONED
+684,312,2023-11-19,PLANNED,0.0,,Start a small blog,Side Project,COMPLETED
+685,291,2024-03-24,PLANNED,0.0,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+686,58,2024-07-30,CREATED,0.0,,Plan a weekend getaway,Travel,OPEN/STALLED
+687,55,2023-12-27,STARTED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+688,260,2023-04-21,ABANDONED,0.0,Competing priorities,Start meditating daily,Fitness & Health,ABANDONED
+689,26,2024-06-26,RESEARCHED,2.0,,Ask for a performance review,Career,ABANDONED
+690,91,2023-12-01,PLANNED,0.0,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+691,301,2023-04-24,RESEARCHED,1.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+692,170,2023-11-21,RESEARCHED,0.3,,Research a relocation destination,Travel,ABANDONED
+693,167,2023-12-23,CREATED,0.0,,STUDY FOR A CERTIFICATION EXAM,Learning & Skills,ABANDONED
+694,18,2024-04-21,POSTPONED,0.0,Low energy / burnout,Learn a new design software,Creative,ABANDONED
+695,249,2024-01-02,RESEARCHED,0.6,,Learn touch typing,Learning & Skills,OPEN/STALLED
+696,2,2023-05-08,RESEARCHED,1.3,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+697,225,2024-03-16,RESEARCHED,1.6,,Plan a road trip route,Travel,REPLACED
+698,186,2025-03-28,CONTINUED,1.1,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+699,111,2023-07-09,POSTPONED,0.0,Perfectionism / fear of failure,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+700,300,2025-02-23,CREATED,0.0,,Try a new craft technique,Creative,OPEN/STALLED
+701,57,2025-04-14,POSTPONED,0.0,Competing priorities,Research visa requirements,Travel,ABANDONED
+702,139,2023-12-19,CREATED,0.0,,Build a personal dashboard,Side Project,ABANDONED
+703,84,2023-04-25,RESEARCHED,0.9,,Automate a recurring bill payment,Home & Admin,COMPLETED
+704,96,2024-03-03,CONTINUED,2.7,,Learn touch typing,Learning & Skills,COMPLETED
+705,96,2023-11-29,POSTPONED,0.0,Lack of motivation,Learn touch typing,Learning & Skills,COMPLETED
+706,141,2024-01-30,ABANDONED,0.0,Unclear next step,Read one book on statistics,Learning & Skills,ABANDONED
+707,107,2023-12-30,RESEARCHED,1.3,,Plan a solo trip,Travel,ABANDONED
+708,134,2025-03-23,STARTED,0.0,,Plan a savings goal,Financial,OPEN/STALLED
+709,179,2024-09-05,CREATED,0.0,,Organize a small get-together,Relationships,ABANDONED
+710,100,2024-04-28,RESEARCHED,4.1,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+711,187,2024-05-29,RESEARCHED,0.8,,Write a long-overdue message,Relationships,OPEN/STALLED
+712,39,2024-07-27,POSTPONED,0.0,Unclear next step,Start a freelance side gig,Side Project,COMPLETED
+713,111,2023-06-08,RESEARCHED,0.9,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+714,185,2024-08-29,RESEARCHED,0.9,,Start a photography project,Creative,COMPLETED
+715,28,2024-10-19,RESEARCHED,0.3,,Start a small blog,Side Project,ABANDONED
+716,289,2024-11-30,RESEARCHED,1.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+717,148,2024-08-18,RESEARCHED,0.6,,Research a relocation destination,Travel,OPEN/STALLED
+718,15,2023-10-04,CREATED,0.0,,Create a travel budget,Travel,OPEN/STALLED
+719,134,2025-05-05,CONTINUED,3.1,,Plan a savings goal,Financial,OPEN/STALLED
+720,299,2023-02-09,PLANNED,0.0,,Build an automation script,Side Project,OPEN/STALLED
+721,91,2024-02-16,CONTINUED,2.1,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+722,214,2025-06-09,CONTINUED,1.5,,Plan a weekend getaway,Travel,COMPLETED
+723,311,2025-07-05,RESEARCHED,0.8,,Build a portfolio website,Career,ABANDONED
+724,249,2024-01-03,RESEARCHED,1.3,,Learn touch typing,Learning & Skills,OPEN/STALLED
+725,9,2024-11-06,CONTINUED,1.0,,Plan a family visit,Relationships,COMPLETED
+726,168,2023-12-25,RESEARCHED,0.6,,Learn conversational Spanish,Learning & Skills,ABANDONED
+727,255,2023-01-07,CREATED,0.0,,Set up a filing system,Home & Admin,OPEN/STALLED
+728,34,2025-01-29,RESEARCHED,3.3,,Contribute to an open-source project,Side Project,OPEN/STALLED
+729,148,2024-08-13,CREATED,0.0,,Research a relocation destination,Travel,OPEN/STALLED
+730,26,2024-10-15,CONTINUED,1.5,,Ask for a performance review,Career,ABANDONED
+731,282,2023-04-02,RESEARCHED,0.5,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+732,163,2023-03-18,RESEARCHED,1.6,,START A PUZZLE-SOLVING HABIT,Hobby,OPEN/STALLED
+733,15,2023-10-25,RESEARCHED,0.0,,Create a travel budget,Travel,OPEN/STALLED
+734,181,2023-11-06,PLANNED,0.0,,Update personal records,Home & Admin,OPEN/STALLED
+735,69,2023-08-03,CONTINUED,4.4,,Call an old friend,Relationships,REPLACED
+736,55,2023-10-28,RESEARCHED,0.8,,Schedule regular calls with family,Relationships,COMPLETED
+737,176,2024-04-25,RESEARCHED,1.2,,Write short stories weekly,Creative,ABANDONED
+738,238,2024-04-14,CREATED,0.0,,Start a freelance side gig,Side Project,OPEN/STALLED
+739,219,2024-05-29,STARTED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+740,206,2024-08-16,PLANNED,0.0,,BUILD AN EMERGENCY FUND,Financial,ABANDONED
+741,205,2025-01-12,RESEARCHED,0.6,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+742,295,2024-10-16,RESEARCHED,1.1,,Organize digital files,Home & Admin,OPEN/STALLED
+743,55,2024-04-07,COMPLETED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+744,297,2024-04-10,ABANDONED,0.0,Blocked by dependency,Learn the basics of investing,Financial,ABANDONED
+745,203,2025-06-03,RESEARCHED,0.5,,Track spending for a month,Financial,OPEN/STALLED
+746,184,2024-02-26,RESEARCHED,0.3,,Build a personal dashboard,Side Project,OPEN/STALLED
+747,306,2024-01-05,CONTINUED,3.5,,Plan a road trip route,Travel,COMPLETED
+748,252,2025-06-28,RESEARCHED,3.2,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+749,197,2024-03-02,COMPLETED,0.0,,Write a long-overdue message,Relationships,COMPLETED
+750,64,2023-09-15,CREATED,0.0,,Plan a savings goal,Financial,OPEN/STALLED
+751,26,2024-12-05,CONTINUED,60.0,,Ask for a performance review,Career,ABANDONED
+752,244,2025-07-23,RESEARCHED,0.6,,Schedule regular calls with family,Relationships,OPEN/STALLED
+753,157,2024-12-18,RESEARCHED,60.0,,Research a relocation destination,Travel,COMPLETED
+754,60,2024-01-04,CONTINUED,1.3,,Start a photography project,Creative,REPLACED
+755,63,2024-11-09,POSTPONED,0.0,Lack of money,Research investment options,Financial,ABANDONED
+756,108,2025-05-14,POSTPONED,0.0,Lack of motivation,Repair a strained relationship,Relationships,OPEN/STALLED
+757,143,2023-10-31,CREATED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+758,241,2023-04-06,POSTPONED,0.0,Lost interest,Start journaling regularly,Hobby,ABANDONED
+759,316,2024-04-29,CONTINUED,1.1,,Plan a family visit,Relationships,ABANDONED
+760,140,2023-10-08,RESEARCHED,0.7,,Reorganize the wardrobe,Home & Admin,OPEN/STALLED
+761,271,2025-01-18,RESEARCHED,1.7,,Start a small garden,Hobby,ABANDONED
+762,259,2023-04-06,RESEARCHED,0.9,,Start a reading challenge,Hobby,OPEN/STALLED
+763,221,2023-07-11,PLANNED,0.0,,Plan a family visit,Relationships,COMPLETED
+764,62,2023-10-06,RESEARCHED,0.9,,Learn conversational Spanish,Learning & Skills,ABANDONED
+765,271,2025-03-24,ABANDONED,0.0,Overestimated effort required,Start a small garden,Hobby,ABANDONED
+766,91,2024-05-22,POSTPONED,0.0,Blocked by dependency,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+767,121,2023-05-11,RESEARCHED,0.7,,Start a home workout routine,Fitness & Health,OPEN/STALLED
+768,200,2024-10-24,RESEARCHED,1.9,,Start sketching daily,Creative,ABANDONED
+769,169,2025-05-11,RESEARCHED,2.6,,Compare insurance providers,Financial,ABANDONED
+770,61,2025-01-19,COMPLETED,0.0,,Learn basic calligraphy,Hobby,COMPLETED
+771,254,2023-06-11,COMPLETED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+772,125,2023-12-27,RESEARCHED,2.0,,Start a houseplant collection,Hobby,OPEN/STALLED
+773,51,2023-04-30,CONTINUED,3.0,,Organize digital files,Home & Admin,COMPLETED
+774,30,2024-01-09,COMPLETED,0.0,,Finish a painting series,Creative,COMPLETED
+775,297,2024-03-10,RESEARCHED,1.1,,Learn the basics of investing,Financial,ABANDONED
+776,161,2024-09-02,ABANDONED,0.0,Competing priorities,Learn the basics of investing,Financial,ABANDONED
+777,292,2025-05-23,ABANDONED,0.0,Lost interest,Start a houseplant collection,Hobby,ABANDONED
+778,302,2025-06-03,RESEARCHED,1.6,,Build a personal dashboard,Side Project,ABANDONED
+779,130,2023-11-27,CREATED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+780,170,2024-05-22,ABANDONED,0.0,Lost interest,Research a relocation destination,Travel,ABANDONED
+781,313,2023-07-19,RESEARCHED,0.4,,Research flights for a trip,Travel,ABANDONED
+782,100,2024-06-11,RESEARCHED,2.2,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+783,60,2024-04-04,CONTINUED,1.0,,Start a photography project,Creative,REPLACED
+784,14,2024-07-15,RESEARCHED,1.1,,Start journaling regularly,Hobby,REPLACED
+785,133,2024-02-24,PLANNED,0.0,,Learn key phrases for a trip,Travel,ABANDONED
+786,25,2024-03-08,POSTPONED,0.0,Blocked by dependency,Renew an expiring document,Home & Admin,COMPLETED
+787,268,2025-06-07,RESEARCHED,1.8,,Build a personal dashboard,Side Project,COMPLETED
+788,312,2024-05-11,COMPLETED,0.0,,Start a small blog,Side Project,COMPLETED
+789,188,2023-12-17,RESEARCHED,2.5,,Contribute to an open-source project,Side Project,REPLACED
+790,234,2023-05-17,RESEARCHED,1.5,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+791,39,2024-06-17,CONTINUED,3.9,,Start a freelance side gig,Side Project,COMPLETED
+792,308,2025-06-15,COMPLETED,0.0,,Try a new craft technique,Creative,COMPLETED
+793,138,2024-11-10,CREATED,0.0,,Redesign a personal art portfolio,Creative,OPEN/STALLED
+794,61,2025-01-10,PLANNED,0.0,,Learn basic calligraphy,Hobby,COMPLETED
+795,65,2025-05-09,RESEARCHED,0.2,,Learn touch typing,Learning & Skills,OPEN/STALLED
+796,80,2023-02-23,RESEARCHED,1.2,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+797,273,2025-05-22,RESEARCHED,0.6,,Collect and organize a hobby set,Hobby,OPEN/STALLED
+798,282,2023-04-15,PLANNED,0.0,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+799,174,2023-05-28,RESEARCHED,0.5,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+800,174,2023-10-07,POSTPONED,0.0,Low energy / burnout,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+801,234,2023-06-25,STARTED,0.0,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+802,126,2024-11-06,RESEARCHED,1.6,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+803,63,2024-09-23,RESEARCHED,0.9,,Research investment options,Financial,ABANDONED
+804,182,2024-08-27,RESEARCHED,3.8,,Plan a savings goal,Financial,COMPLETED
+805,296,2023-06-19,PLANNED,0.0,,Compare insurance providers,Financial,ABANDONED
+806,285,2024-11-14,RESEARCHED,3.8,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+807,227,2025-02-07,STARTED,0.0,,Organize digital files,Home & Admin,ABANDONED
+808,97,2025-07-16,CONTINUED,1.3,,Prepare for technical interviews,Career,OPEN/STALLED
+809,165,2024-12-07,RESEARCHED,1.8,,Research flights for a trip,Travel,OPEN/STALLED
+810,103,2023-08-25,CREATED,0.0,,Improve sleep schedule,Fitness & Health,ABANDONED
+811,44,2023-07-16,CREATED,0.0,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+812,124,2025-05-20,CREATED,0.0,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+813,277,2023-08-02,PLANNED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+814,218,2025-05-27,POSTPONED,0.0,Lack of money,Start a small garden,Hobby,OPEN/STALLED
+815,27,2023-06-06,CREATED,0.0,,Pay off a small debt,Financial,ABANDONED
+816,61,2025-01-14,STARTED,0.0,,Learn basic calligraphy,Hobby,COMPLETED
+817,101,2025-02-12,POSTPONED,0.0,No accountability,Start a niche newsletter,Side Project,ABANDONED
+818,301,2023-05-08,PLANNED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+819,219,2024-06-22,CONTINUED,0.7,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+820,206,2024-08-08,RESEARCHED,0.8,,BUILD AN EMERGENCY FUND,Financial,ABANDONED
+821,160,2024-04-24,CREATED,0.0,,Research a relocation destination,Travel,OPEN/STALLED
+822,127,2024-07-12,CONTINUED,2.3,,Book a long-postponed trip,Travel,COMPLETED
+823,243,2025-06-09,RESEARCHED,3.8,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+824,58,2024-08-23,RESEARCHED,0.5,,Plan a weekend getaway,Travel,OPEN/STALLED
+825,25,2024-02-07,CONTINUED,4.2,,Renew an expiring document,Home & Admin,COMPLETED
+826,49,2024-01-14,CONTINUED,1.0,,Set up automatic savings,Financial,COMPLETED
+827,130,2024-04-18,CONTINUED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+828,28,2024-09-25,RESEARCHED,4.0,,Start a small blog,Side Project,ABANDONED
+829,222,2023-05-17,RESEARCHED,0.3,,Research a relocation destination,Travel,REPLACED
+830,108,2025-03-02,RESEARCHED,0.6,,Repair a strained relationship,Relationships,OPEN/STALLED
+831,313,2023-09-14,ABANDONED,0.0,Unclear next step,Research flights for a trip,Travel,ABANDONED
+832,182,2024-10-11,CONTINUED,1.1,,Plan a savings goal,Financial,COMPLETED
+833,73,2025-04-27,RESEARCHED,1.0,,Update personal records,Home & Admin,OPEN/STALLED
+834,214,2025-04-12,PLANNED,0.0,,Plan a weekend getaway,Travel,COMPLETED
+835,164,2023-03-02,RESEARCHED,0.2,,PLAN A SAVINGS GOAL,Financial,OPEN/STALLED
+836,165,2024-10-29,CREATED,0.0,,Research flights for a trip,Travel,OPEN/STALLED
+837,258,2024-02-16,RESEARCHED,0.6,,Renew an expiring document,Home & Admin,ABANDONED
+838,284,2024-04-21,RESEARCHED,0.3,,Track spending for a month,Financial,ABANDONED
+839,312,2023-12-19,STARTED,0.0,,Start a small blog,Side Project,COMPLETED
+840,174,2023-06-19,RESEARCHED,1.4,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+841,158,2024-08-25,RESEARCHED,1.8,,Plan a family visit,Relationships,ABANDONED
+842,70,2024-12-31,REPLACED,0.0,Replaced by a different priority,Fix a recurring household issue,Home & Admin,REPLACED
+843,287,2024-12-09,PLANNED,0.0,,Plan a road trip route,Travel,ABANDONED
+844,69,2023-03-02,RESEARCHED,0.7,,Call an old friend,Relationships,REPLACED
+845,153,2024-09-27,CREATED,0.0,,Plan a savings goal,Financial,OPEN/STALLED
+846,167,2023-12-25,RESEARCHED,0.2,,STUDY FOR A CERTIFICATION EXAM,Learning & Skills,ABANDONED
+847,51,2023-05-18,CONTINUED,60.0,,Organize digital files,Home & Admin,COMPLETED
+848,55,2024-04-03,CONTINUED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+849,84,2023-04-05,RESEARCHED,1.0,,Automate a recurring bill payment,Home & Admin,COMPLETED
+850,304,2025-05-14,RESEARCHED,6.1,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+851,312,2024-01-29,CONTINUED,0.9,,Start a small blog,Side Project,COMPLETED
+852,62,2023-10-21,POSTPONED,0.0,Unclear next step,Learn conversational Spanish,Learning & Skills,ABANDONED
+853,72,2025-06-24,RESEARCHED,0.3,,Cut down on sugar,Fitness & Health,OPEN/STALLED
+854,9,2024-12-04,CONTINUED,6.6,,Plan a family visit,Relationships,COMPLETED
+855,6,2023-10-12,CREATED,0.0,,Plan a date night routine,Relationships,OPEN/STALLED
+856,111,2023-08-24,CONTINUED,2.0,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+857,25,2023-11-14,RESEARCHED,0.7,,Renew an expiring document,Home & Admin,COMPLETED
+858,213,2023-10-07,CREATED,0.0,,Build a personal dashboard,Side Project,REPLACED
+859,85,2025-02-28,POSTPONED,0.0,Lack of money,START A READING CHALLENGE,Hobby,OPEN/STALLED
+860,130,2024-01-05,PLANNED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+861,13,2023-08-18,POSTPONED,0.0,Competing priorities,Set up a filing system,Home & Admin,ABANDONED
+862,161,2024-07-11,RESEARCHED,0.3,,Learn the basics of investing,Financial,ABANDONED
+863,111,2023-05-17,RESEARCHED,1.1,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+864,169,2025-06-21,RESEARCHED,1.7,,Compare insurance providers,Financial,ABANDONED
+865,219,2024-07-01,POSTPONED,0.0,Lack of time,Read one book on statistics,Learning & Skills,OPEN/STALLED
+866,95,2024-03-06,RESEARCHED,3.6,,Repair a strained relationship,Relationships,ABANDONED
+867,238,2024-05-06,RESEARCHED,2.4,,Start a freelance side gig,Side Project,OPEN/STALLED
+868,170,2024-03-16,POSTPONED,0.0,Lack of motivation,Research a relocation destination,Travel,ABANDONED
+869,73,2025-04-15,RESEARCHED,60.0,,Update personal records,Home & Admin,OPEN/STALLED
+870,123,2025-01-07,RESEARCHED,0.8,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+871,94,2025-06-29,RESEARCHED,0.2,,Plan a trip itinerary,Travel,OPEN/STALLED
+872,202,2024-08-24,CREATED,0.0,,Research visa requirements,Travel,REPLACED
+873,85,2025-01-02,CONTINUED,11.9,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+874,135,2023-07-25,CONTINUED,1.1,,Prototype a small app idea,Side Project,COMPLETED
+875,70,2024-12-21,RESEARCHED,3.2,,Fix a recurring household issue,Home & Admin,REPLACED
+876,276,2025-04-22,RESEARCHED,1.1,,Try a new craft technique,Creative,COMPLETED
+877,114,2023-12-02,CREATED,0.0,,Compare insurance providers,Financial,OPEN/STALLED
+878,87,2023-07-16,CREATED,0.0,,Track spending for a month,Financial,OPEN/STALLED
+879,268,2025-07-06,CONTINUED,1.6,,Build a personal dashboard,Side Project,COMPLETED
+880,108,2025-04-15,CONTINUED,2.3,,Repair a strained relationship,Relationships,OPEN/STALLED
+881,259,2023-04-12,PLANNED,0.0,,Start a reading challenge,Hobby,OPEN/STALLED
+882,115,2025-03-10,PLANNED,0.0,,Reconnect with a former colleague,Relationships,OPEN/STALLED
+883,74,2025-05-03,POSTPONED,0.0,Unclear next step,Build an emergency fund,Financial,OPEN/STALLED
+884,263,2023-12-19,PLANNED,0.0,,Plan a family visit,Relationships,COMPLETED
+885,312,2024-03-14,CONTINUED,0.3,,Start a small blog,Side Project,COMPLETED
+886,54,2024-10-26,RESEARCHED,2.2,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+887,205,2025-01-05,RESEARCHED,1.4,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+888,130,2023-12-21,RESEARCHED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+889,7,2023-04-10,CREATED,0.0,,Study for a certification exam,Learning & Skills,ABANDONED
+890,305,2024-04-06,PLANNED,0.0,,Plan a solo trip,Travel,ABANDONED
+891,282,2023-04-13,RESEARCHED,2.8,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+892,174,2023-08-08,POSTPONED,0.0,Low energy / burnout,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+893,125,2024-01-31,POSTPONED,0.0,Low energy / burnout,Start a houseplant collection,Hobby,OPEN/STALLED
+894,75,2023-08-16,CREATED,0.0,,Research career change options,Career,OPEN/STALLED
+895,112,2024-08-21,PLANNED,0.0,,JOIN A LOCAL SOCIAL GROUP,Relationships,OPEN/STALLED
+896,170,2024-01-26,CONTINUED,2.3,,Research a relocation destination,Travel,ABANDONED
+897,25,2023-10-28,CREATED,0.0,,Renew an expiring document,Home & Admin,COMPLETED
+898,289,2024-10-23,CREATED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+899,112,2024-10-11,CONTINUED,1.5,,JOIN A LOCAL SOCIAL GROUP,Relationships,OPEN/STALLED
+900,134,2025-03-18,PLANNED,0.0,,Plan a savings goal,Financial,OPEN/STALLED
+901,151,2025-03-20,CREATED,0.0,,Start a reading challenge,Hobby,OPEN/STALLED
+902,193,2024-09-24,CREATED,0.0,,Build a personal data project,Side Project,ABANDONED
+903,114,2023-12-23,RESEARCHED,4.9,,Compare insurance providers,Financial,OPEN/STALLED
+904,174,2023-09-30,CONTINUED,5.9,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+905,267,2024-07-16,CONTINUED,2.0,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+906,85,2024-11-25,RESEARCHED,0.3,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+907,26,2024-07-30,CONTINUED,0.5,,Ask for a performance review,Career,ABANDONED
+908,193,2024-10-07,RESEARCHED,3.9,,Build a personal data project,Side Project,ABANDONED
+909,316,2024-03-02,RESEARCHED,0.3,,Plan a family visit,Relationships,ABANDONED
+910,72,2025-07-04,PLANNED,60.0,,Cut down on sugar,Fitness & Health,OPEN/STALLED
+911,256,2025-01-28,CREATED,0.0,,Learn conversational Spanish,Learning & Skills,OPEN/STALLED
+912,99,2025-05-18,PLANNED,0.0,,COLLECT AND ORGANIZE A HOBBY SET,Hobby,OPEN/STALLED
+913,72,2025-07-29,STARTED,0.0,,Cut down on sugar,Fitness & Health,OPEN/STALLED
+914,85,2025-04-01,CONTINUED,1.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+915,182,2024-08-16,CREATED,0.0,,Plan a savings goal,Financial,COMPLETED
+916,55,2024-02-03,CONTINUED,1.3,,Schedule regular calls with family,Relationships,COMPLETED
+917,261,2024-05-12,CREATED,0.0,,Create a travel budget,Travel,OPEN/STALLED
+918,135,2023-05-06,RESEARCHED,1.2,,Prototype a small app idea,Side Project,COMPLETED
+919,179,2024-09-08,RESEARCHED,0.0,,Organize a small get-together,Relationships,ABANDONED
+920,105,2023-08-25,RESEARCHED,0.5,,Call an old friend,Relationships,OPEN/STALLED
+921,95,2024-02-14,CREATED,0.0,,Repair a strained relationship,Relationships,ABANDONED
+922,148,2024-08-31,RESEARCHED,1.7,,Research a relocation destination,Travel,OPEN/STALLED
+923,185,2024-10-20,CONTINUED,0.5,,Start a photography project,Creative,COMPLETED
+924,135,2023-08-28,COMPLETED,0.0,,Prototype a small app idea,Side Project,COMPLETED
+925,182,2024-10-27,CONTINUED,0.4,,Plan a savings goal,Financial,COMPLETED
+926,181,2023-10-09,RESEARCHED,1.0,,Update personal records,Home & Admin,OPEN/STALLED
+927,214,2025-02-27,RESEARCHED,1.7,,Plan a weekend getaway,Travel,COMPLETED
+928,18,2024-04-14,RESEARCHED,1.0,,Learn a new design software,Creative,ABANDONED
+929,211,2025-01-19,CREATED,0.0,,Learn basic calligraphy,Hobby,OPEN/STALLED
+930,295,2024-10-01,RESEARCHED,0.3,,Organize digital files,Home & Admin,OPEN/STALLED
+931,288,2023-03-05,CREATED,0.0,,Build a portfolio project,Side Project,OPEN/STALLED
+932,295,2024-10-18,PLANNED,0.0,,Organize digital files,Home & Admin,OPEN/STALLED
+933,238,2024-06-04,POSTPONED,0.0,Lost interest,Start a freelance side gig,Side Project,OPEN/STALLED
+934,219,2024-08-17,CONTINUED,5.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+935,275,2024-02-10,CREATED,0.0,,Start a small blog,Side Project,ABANDONED
+936,131,2023-09-20,RESEARCHED,1.1,,Track spending for a month,Financial,OPEN/STALLED
+937,108,2025-07-16,CONTINUED,4.5,,Repair a strained relationship,Relationships,OPEN/STALLED
+938,252,2025-05-15,CREATED,0.0,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+939,259,2023-03-28,CREATED,0.0,,Start a reading challenge,Hobby,OPEN/STALLED
+940,221,2023-06-30,POSTPONED,0.0,Lack of motivation,Plan a family visit,Relationships,COMPLETED
+941,82,2023-10-08,PLANNED,0.0,,Organize a small get-together,Relationships,OPEN/STALLED
+942,62,2023-09-28,CREATED,0.0,,Learn conversational Spanish,Learning & Skills,ABANDONED
+943,17,2023-06-28,ABANDONED,0.0,Overestimated effort required,Send a thank-you note,Relationships,ABANDONED
+944,159,2023-04-18,PLANNED,0.0,,Train for a 5k run,Fitness & Health,COMPLETED
+945,135,2023-08-10,CONTINUED,4.8,,Prototype a small app idea,Side Project,COMPLETED
+946,261,2024-05-22,RESEARCHED,2.2,,Create a travel budget,Travel,OPEN/STALLED
+947,307,2023-09-02,CREATED,0.0,,Learn a new design software,Creative,OPEN/STALLED
+948,219,2024-08-11,POSTPONED,0.0,Lack of money,Read one book on statistics,Learning & Skills,OPEN/STALLED
+949,29,2025-06-18,CREATED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+950,306,2024-02-26,CONTINUED,0.8,,Plan a road trip route,Travel,COMPLETED
+951,275,2024-03-05,RESEARCHED,2.6,,Start a small blog,Side Project,ABANDONED
+952,130,2024-06-05,CONTINUED,3.2,,Start a puzzle-solving habit,Hobby,COMPLETED
+953,311,2025-06-29,RESEARCHED,0.4,,Build a portfolio website,Career,ABANDONED
+954,245,2025-03-01,ABANDONED,0.0,Perfectionism / fear of failure,Send a thank-you note,Relationships,ABANDONED
+955,69,2023-05-20,CONTINUED,2.6,,Call an old friend,Relationships,REPLACED
+956,134,2025-03-12,RESEARCHED,2.4,,Plan a savings goal,Financial,OPEN/STALLED
+957,282,2023-06-20,CONTINUED,8.3,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+958,200,2024-10-15,CREATED,0.0,,Start sketching daily,Creative,ABANDONED
+959,90,2024-06-10,POSTPONED,0.0,Unclear next step,Learn key phrases for a trip,Travel,ABANDONED
+960,188,2024-01-11,POSTPONED,0.0,Unclear next step,Contribute to an open-source project,Side Project,REPLACED
+961,130,2024-07-14,COMPLETED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+962,20,2024-12-27,CONTINUED,1.7,,Start a small garden,Hobby,COMPLETED
+963,110,2024-12-04,POSTPONED,0.0,Low energy / burnout,Plan a date night routine,Relationships,OPEN/STALLED
+964,109,2023-10-07,CREATED,0.0,,RESEARCH A RELOCATION DESTINATION,Travel,OPEN/STALLED
+965,291,2024-05-10,CONTINUED,2.8,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+966,40,2025-01-10,CREATED,0.0,,BUILD AN AUTOMATION SCRIPT,Side Project,ABANDONED
+967,120,2025-04-07,RESEARCHED,0.0,,Research flights for a trip,Travel,OPEN/STALLED
+968,182,2024-10-16,CONTINUED,1.8,,Plan a savings goal,Financial,COMPLETED
+969,84,2023-04-10,RESEARCHED,1.2,,Automate a recurring bill payment,Home & Admin,COMPLETED
+970,69,2023-07-29,POSTPONED,0.0,Blocked by dependency,Call an old friend,Relationships,REPLACED
+971,97,2025-05-18,CREATED,0.0,,Prepare for technical interviews,Career,OPEN/STALLED
+972,245,2025-02-02,RESEARCHED,1.7,,Send a thank-you note,Relationships,ABANDONED
+973,61,2025-01-07,RESEARCHED,0.7,,Learn basic calligraphy,Hobby,COMPLETED
+974,219,2024-09-28,CONTINUED,0.0,,Read one book on statistics,Learning & Skills,OPEN/STALLED
+975,39,2023-10-13,CREATED,0.0,,Start a freelance side gig,Side Project,COMPLETED
+976,12,2024-10-12,CREATED,0.0,,Learn the basics of investing,Financial,OPEN/STALLED
+977,20,2024-08-20,CREATED,0.0,,Start a small garden,Hobby,COMPLETED
+978,250,2024-09-06,CREATED,0.0,,Prepare for technical interviews,Career,OPEN/STALLED
+979,135,2023-04-05,RESEARCHED,0.5,,Prototype a small app idea,Side Project,COMPLETED
+980,9,2024-08-20,PLANNED,0.0,,Plan a family visit,Relationships,COMPLETED
+981,186,2025-05-23,COMPLETED,0.0,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+982,312,2023-11-08,RESEARCHED,60.0,,Start a small blog,Side Project,COMPLETED
+983,157,2025-04-29,CONTINUED,1.9,,Research a relocation destination,Travel,COMPLETED
+984,277,2023-07-18,CREATED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+985,9,2024-09-21,CONTINUED,0.6,,Plan a family visit,Relationships,COMPLETED
+986,90,2024-04-27,RESEARCHED,0.0,,Learn key phrases for a trip,Travel,ABANDONED
+987,230,2023-10-24,POSTPONED,0.0,Lost interest,Ask for a performance review,Career,OPEN/STALLED
+988,52,2023-04-15,POSTPONED,0.0,Perfectionism / fear of failure,Build a portfolio website,Career,OPEN/STALLED
+989,126,2024-10-25,CREATED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+990,313,2023-05-31,CREATED,0.0,,Research flights for a trip,Travel,ABANDONED
+991,66,2023-06-15,CREATED,0.0,,Book a full medical check-up,Fitness & Health,OPEN/STALLED
+992,285,2024-10-26,RESEARCHED,0.0,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+993,79,2025-07-31,POSTPONED,0.0,No accountability,Update CV and LinkedIn profile,Career,OPEN/STALLED
+994,164,2023-03-25,POSTPONED,0.0,Lack of motivation,PLAN A SAVINGS GOAL,Financial,OPEN/STALLED
+995,27,2023-07-17,POSTPONED,0.0,Lack of money,Pay off a small debt,Financial,ABANDONED
+996,68,2025-06-13,RESEARCHED,0.6,,Start a niche newsletter,Side Project,OPEN/STALLED
+997,97,2025-07-12,CONTINUED,0.0,,Prepare for technical interviews,Career,OPEN/STALLED
+998,108,2025-06-12,CONTINUED,1.2,,Repair a strained relationship,Relationships,OPEN/STALLED
+999,28,2024-11-21,ABANDONED,0.0,Lack of money,Start a small blog,Side Project,ABANDONED
+1000,88,2024-08-05,CREATED,0.0,,Reduce screen time before bed,Fitness & Health,OPEN/STALLED
+1001,91,2024-01-14,CONTINUED,0.7,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+1002,60,2023-10-19,CREATED,0.0,,Start a photography project,Creative,REPLACED
+1003,91,2023-11-16,RESEARCHED,2.0,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+1004,17,2023-05-30,PLANNED,0.0,,Send a thank-you note,Relationships,ABANDONED
+1005,159,2023-06-04,CONTINUED,1.0,,Train for a 5k run,Fitness & Health,COMPLETED
+1006,250,2024-11-20,PLANNED,0.0,,Prepare for technical interviews,Career,OPEN/STALLED
+1007,291,2024-02-17,RESEARCHED,0.7,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+1008,76,2023-09-10,RESEARCHED,0.3,,Review and cut subscriptions,Financial,OPEN/STALLED
+1009,268,2025-06-30,STARTED,0.0,,Build a personal dashboard,Side Project,COMPLETED
+1010,309,2025-03-29,RESEARCHED,0.5,,Plan a weekend getaway,Travel,OPEN/STALLED
+1011,48,2023-03-02,CREATED,0.0,,Enter a local art competition,Creative,OPEN/STALLED
+1012,263,2024-02-13,POSTPONED,0.0,Competing priorities,Plan a family visit,Relationships,COMPLETED
+1013,179,2024-09-26,RESEARCHED,1.0,,Organize a small get-together,Relationships,ABANDONED
+1014,180,2025-03-21,RESEARCHED,0.6,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+1015,52,2023-03-24,CREATED,0.0,,Build a portfolio website,Career,OPEN/STALLED
+1016,73,2025-05-10,PLANNED,0.0,,Update personal records,Home & Admin,OPEN/STALLED
+1017,316,2024-03-14,PLANNED,0.0,,Plan a family visit,Relationships,ABANDONED
+1018,17,2023-05-05,RESEARCHED,2.1,,Send a thank-you note,Relationships,ABANDONED
+1019,281,2023-12-22,PLANNED,0.0,,Start a reading challenge,Hobby,OPEN/STALLED
+1020,166,2024-04-08,RESEARCHED,1.7,,Start meditating daily,Fitness & Health,OPEN/STALLED
+1021,159,2023-06-25,COMPLETED,0.0,,Train for a 5k run,Fitness & Health,COMPLETED
+1022,144,2023-10-08,CREATED,0.0,,Learn salary negotiation,Career,ABANDONED
+1023,302,2025-05-05,CREATED,0.0,,Build a personal dashboard,Side Project,ABANDONED
+1024,318,2024-10-09,RESEARCHED,3.3,,Plan a trip itinerary,Travel,ABANDONED
+1025,3,2023-10-26,ABANDONED,0.0,Lack of money,Apply to 10 jobs abroad,Career,ABANDONED
+1026,230,2023-09-07,CREATED,0.0,,Ask for a performance review,Career,OPEN/STALLED
+1027,247,2025-05-11,PLANNED,0.0,,Finish an online Python course,Learning & Skills,COMPLETED
+1028,241,2023-03-09,CREATED,0.0,,Start journaling regularly,Hobby,ABANDONED
+1029,247,2025-07-10,CONTINUED,0.4,,Finish an online Python course,Learning & Skills,COMPLETED
+1030,106,2025-07-11,RESEARCHED,1.3,,Start a houseplant collection,Hobby,OPEN/STALLED
+1031,84,2023-05-09,PLANNED,0.0,,Automate a recurring bill payment,Home & Admin,COMPLETED
+1032,96,2023-10-08,STARTED,0.0,,Learn touch typing,Learning & Skills,COMPLETED
+1033,5,2024-11-24,ABANDONED,0.0,Competing priorities,Start sketching daily,Creative,ABANDONED
+1034,276,2025-04-26,PLANNED,0.0,,Try a new craft technique,Creative,COMPLETED
+1035,272,2023-01-22,CREATED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1036,175,2024-07-18,CREATED,0.0,,Start a home workout routine,Fitness & Health,OPEN/STALLED
+1037,116,2024-07-27,ABANDONED,0.0,Lack of motivation,Create a monthly budget,Financial,ABANDONED
+1038,130,2024-05-03,CONTINUED,8.7,,Start a puzzle-solving habit,Hobby,COMPLETED
+1039,76,2023-10-12,RESEARCHED,0.5,,Review and cut subscriptions,Financial,OPEN/STALLED
+1040,292,2025-05-23,ABANDONED,0.0,Lost interest,Start a houseplant collection,Hobby,ABANDONED
+1041,225,2024-04-07,RESEARCHED,1.8,,Plan a road trip route,Travel,REPLACED
+1042,40,2025-01-27,RESEARCHED,1.2,,BUILD AN AUTOMATION SCRIPT,Side Project,ABANDONED
+1043,42,2023-12-29,CREATED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1044,311,2025-07-11,PLANNED,0.0,,Build a portfolio website,Career,ABANDONED
+1045,263,2024-01-16,STARTED,0.0,,Plan a family visit,Relationships,COMPLETED
+1046,193,2024-10-19,RESEARCHED,2.9,,Build a personal data project,Side Project,ABANDONED
+1047,51,2023-05-26,COMPLETED,0.0,,Organize digital files,Home & Admin,COMPLETED
+1048,226,2023-08-11,CREATED,0.0,,Ask for a performance review,Career,REPLACED
+1049,247,2025-06-21,CONTINUED,1.5,,Finish an online Python course,Learning & Skills,COMPLETED
+1050,173,2023-11-23,COMPLETED,0.0,,Plan a solo trip,Travel,COMPLETED
+1051,159,2023-03-12,RESEARCHED,0.8,,Train for a 5k run,Fitness & Health,COMPLETED
+1052,106,2025-06-17,RESEARCHED,0.6,,Start a houseplant collection,Hobby,OPEN/STALLED
+1053,53,2024-12-20,RESEARCHED,0.0,,Start a houseplant collection,Hobby,OPEN/STALLED
+1054,170,2023-12-06,RESEARCHED,0.9,,Research a relocation destination,Travel,ABANDONED
+1055,170,2023-12-23,RESEARCHED,0.3,,Research a relocation destination,Travel,ABANDONED
+1056,108,2025-03-06,PLANNED,0.0,,Repair a strained relationship,Relationships,OPEN/STALLED
+1057,71,2024-10-21,RESEARCHED,0.9,,Build a personal dashboard,Side Project,OPEN/STALLED
+1058,223,2024-06-06,POSTPONED,0.0,Lost interest,Schedule regular calls with family,Relationships,COMPLETED
+1059,135,2023-05-22,PLANNED,0.0,,Prototype a small app idea,Side Project,COMPLETED
+1060,197,2024-02-24,POSTPONED,0.0,Lost interest,Write a long-overdue message,Relationships,COMPLETED
+1061,110,2024-11-29,RESEARCHED,0.0,,Plan a date night routine,Relationships,OPEN/STALLED
+1062,141,2023-11-20,CREATED,0.0,,Read one book on statistics,Learning & Skills,ABANDONED
+1063,62,2023-10-30,PLANNED,0.0,,Learn conversational Spanish,Learning & Skills,ABANDONED
+1064,30,2023-09-25,RESEARCHED,1.1,,Finish a painting series,Creative,COMPLETED
+1065,212,2023-09-09,PLANNED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+1066,308,2024-11-27,RESEARCHED,0.5,,Try a new craft technique,Creative,COMPLETED
+1067,49,2023-11-12,POSTPONED,0.0,No accountability,Set up automatic savings,Financial,COMPLETED
+1068,280,2024-04-27,PLANNED,0.0,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+1069,96,2023-08-13,CREATED,0.0,,Learn touch typing,Learning & Skills,COMPLETED
+1070,239,2025-05-17,CREATED,0.0,,Build a portfolio website,Career,OPEN/STALLED
+1071,91,2023-11-01,RESEARCHED,1.2,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+1072,177,2024-06-05,CREATED,0.0,,Plan a weekend getaway,Travel,ABANDONED
+1073,221,2023-09-02,CONTINUED,1.4,,Plan a family visit,Relationships,COMPLETED
+1074,263,2024-03-03,COMPLETED,0.0,,Plan a family visit,Relationships,COMPLETED
+1075,111,2023-10-13,CONTINUED,1.5,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+1076,267,2024-07-12,CONTINUED,1.2,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+1077,133,2023-12-30,CREATED,0.0,,Learn key phrases for a trip,Travel,ABANDONED
+1078,163,2023-02-21,RESEARCHED,1.5,,START A PUZZLE-SOLVING HABIT,Hobby,OPEN/STALLED
+1079,154,2024-11-23,RESEARCHED,1.6,,Redesign a personal art portfolio,Creative,OPEN/STALLED
+1080,269,2025-06-01,CREATED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1081,309,2025-03-07,CREATED,0.0,,Plan a weekend getaway,Travel,OPEN/STALLED
+1082,149,2025-04-10,CREATED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+1083,146,2024-04-18,RESEARCHED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+1084,63,2024-09-11,CREATED,0.0,,Research investment options,Financial,ABANDONED
+1085,172,2023-07-12,CREATED,0.0,,Call an old friend,Relationships,OPEN/STALLED
+1086,265,2023-11-05,CREATED,0.0,,NETWORK WITH 5 PEOPLE IN TARGET INDUSTRY,Career,OPEN/STALLED
+1087,57,2025-04-02,RESEARCHED,1.0,,Research visa requirements,Travel,ABANDONED
+1088,212,2023-07-25,CREATED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+1089,159,2023-05-28,CONTINUED,1.0,,Train for a 5k run,Fitness & Health,COMPLETED
+1090,228,2023-10-24,RESEARCHED,2.3,,Research career change options,Career,OPEN/STALLED
+1091,174,2023-08-09,PLANNED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+1092,276,2025-07-30,COMPLETED,0.0,,Try a new craft technique,Creative,COMPLETED
+1093,72,2025-06-21,CREATED,0.0,,Cut down on sugar,Fitness & Health,OPEN/STALLED
+1094,316,2024-04-12,STARTED,0.0,,Plan a family visit,Relationships,ABANDONED
+1095,139,2023-12-26,RESEARCHED,0.2,,Build a personal dashboard,Side Project,ABANDONED
+1096,296,2023-05-13,CREATED,0.0,,Compare insurance providers,Financial,ABANDONED
+1097,165,2024-11-17,RESEARCHED,1.7,,Research flights for a trip,Travel,OPEN/STALLED
+1098,303,2023-05-15,CREATED,0.0,,Automate a recurring bill payment,Home & Admin,OPEN/STALLED
+1099,5,2024-11-12,PLANNED,0.0,,Start sketching daily,Creative,ABANDONED
+1100,134,2025-01-27,RESEARCHED,0.5,,Plan a savings goal,Financial,OPEN/STALLED
+1101,195,2024-12-14,RESEARCHED,0.8,,BOOK A LONG-POSTPONED TRIP,Travel,ABANDONED
+1102,235,2023-11-07,POSTPONED,0.0,Blocked by dependency,Get a professional certification,Career,OPEN/STALLED
+1103,247,2025-05-16,STARTED,0.0,,Finish an online Python course,Learning & Skills,COMPLETED
+1104,269,2025-07-08,RESEARCHED,0.8,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1105,136,2025-01-17,RESEARCHED,0.6,,Prototype a small app idea,Side Project,OPEN/STALLED
+1106,127,2024-05-07,STARTED,0.0,,Book a long-postponed trip,Travel,COMPLETED
+1107,98,2024-09-01,CREATED,0.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+1108,222,2023-04-10,CREATED,0.0,,Research a relocation destination,Travel,REPLACED
+1109,139,2024-01-13,RESEARCHED,0.3,,Build a personal dashboard,Side Project,ABANDONED
+1110,39,2024-03-03,CONTINUED,2.8,,Start a freelance side gig,Side Project,COMPLETED
+1111,116,2024-05-09,PLANNED,0.0,,Create a monthly budget,Financial,ABANDONED
+1112,113,2025-06-06,CREATED,0.0,,WRITE A LONG-OVERDUE MESSAGE,Relationships,OPEN/STALLED
+1113,312,2024-01-24,POSTPONED,0.0,No accountability,Start a small blog,Side Project,COMPLETED
+1114,201,2024-11-24,CREATED,0.0,,Plan a weekend getaway,Travel,OPEN/STALLED
+1115,274,2025-05-14,CREATED,0.0,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1116,270,2023-03-21,CREATED,0.0,,Build a portfolio website,Career,OPEN/STALLED
+1117,306,2024-01-29,CONTINUED,0.6,,Plan a road trip route,Travel,COMPLETED
+1118,133,2024-02-07,RESEARCHED,0.2,,Learn key phrases for a trip,Travel,ABANDONED
+1119,70,2024-11-29,CREATED,0.0,,Fix a recurring household issue,Home & Admin,REPLACED
+1120,309,2025-05-25,STARTED,0.0,,Plan a weekend getaway,Travel,OPEN/STALLED
+1121,146,2024-05-02,PLANNED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+1122,171,2024-11-24,RESEARCHED,2.9,,Build a personal data project,Side Project,COMPLETED
+1123,209,2024-12-01,RESEARCHED,0.0,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+1124,234,2023-05-15,CREATED,0.0,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+1125,276,2025-03-08,CREATED,0.0,,Try a new craft technique,Creative,COMPLETED
+1126,118,2023-07-24,CREATED,0.0,,Network with 5 people in target industry,Career,OPEN/STALLED
+1127,247,2025-05-10,RESEARCHED,1.6,,Finish an online Python course,Learning & Skills,COMPLETED
+1128,155,2023-06-10,CREATED,0.0,,Start a small blog,Side Project,OPEN/STALLED
+1129,271,2025-01-27,PLANNED,0.0,,Start a small garden,Hobby,ABANDONED
+1130,191,2024-12-10,CREATED,0.0,,Automate a recurring bill payment,Home & Admin,OPEN/STALLED
+1131,135,2023-07-18,CONTINUED,1.1,,Prototype a small app idea,Side Project,COMPLETED
+1132,293,2023-04-30,POSTPONED,0.0,No accountability,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+1133,267,2024-05-12,POSTPONED,0.0,Overestimated effort required,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+1134,51,2023-03-14,PLANNED,0.0,,Organize digital files,Home & Admin,COMPLETED
+1135,122,2024-03-02,PLANNED,0.0,,Start a small garden,Hobby,OPEN/STALLED
+1136,43,2023-03-24,RESEARCHED,0.2,,Get a professional certification,Career,ABANDONED
+1137,18,2024-02-10,CREATED,0.0,,Learn a new design software,Creative,ABANDONED
+1138,74,2025-03-17,CREATED,0.0,,Build an emergency fund,Financial,OPEN/STALLED
+1139,202,2024-09-01,RESEARCHED,0.8,,Research visa requirements,Travel,REPLACED
+1140,100,2024-04-28,RESEARCHED,4.1,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+1141,296,2023-07-27,ABANDONED,0.0,Lack of time,Compare insurance providers,Financial,ABANDONED
+1142,174,2023-08-25,STARTED,0.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+1143,39,2023-10-26,RESEARCHED,1.4,,Start a freelance side gig,Side Project,COMPLETED
+1144,170,2023-11-19,CREATED,0.0,,Research a relocation destination,Travel,ABANDONED
+1145,289,2024-12-02,RESEARCHED,0.6,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+1146,254,2023-05-19,CONTINUED,15.3,,Start a puzzle-solving habit,Hobby,COMPLETED
+1147,54,2024-09-25,RESEARCHED,0.7,,Complete a data visualization course,Learning & Skills,OPEN/STALLED
+1148,263,2023-11-11,RESEARCHED,1.6,,Plan a family visit,Relationships,COMPLETED
+1149,134,2025-01-09,RESEARCHED,0.9,,Plan a savings goal,Financial,OPEN/STALLED
+1150,281,2023-11-27,CREATED,0.0,,Start a reading challenge,Hobby,OPEN/STALLED
+1151,84,2023-06-09,CONTINUED,1.6,,Automate a recurring bill payment,Home & Admin,COMPLETED
+1152,165,2025-04-08,CONTINUED,0.8,,Research flights for a trip,Travel,OPEN/STALLED
+1153,30,2023-12-20,CONTINUED,0.0,,Finish a painting series,Creative,COMPLETED
+1154,320,2023-09-01,CREATED,0.0,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+1155,195,2024-12-11,CREATED,0.0,,BOOK A LONG-POSTPONED TRIP,Travel,ABANDONED
+1156,117,2025-01-26,ABANDONED,0.0,Lack of money,Deep clean the kitchen,Home & Admin,ABANDONED
+1157,280,2024-04-23,RESEARCHED,0.3,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+1158,174,2023-07-13,RESEARCHED,2.0,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+1159,26,2024-07-14,PLANNED,0.0,,Ask for a performance review,Career,ABANDONED
+1160,232,2025-03-18,CREATED,0.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+1161,295,2024-09-09,RESEARCHED,0.4,,Organize digital files,Home & Admin,OPEN/STALLED
+1162,165,2025-01-06,STARTED,0.0,,Research flights for a trip,Travel,OPEN/STALLED
+1163,131,2023-10-23,RESEARCHED,0.4,,Track spending for a month,Financial,OPEN/STALLED
+1164,111,2023-09-10,CONTINUED,1.0,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+1165,30,2023-10-18,POSTPONED,0.0,Low energy / burnout,Finish a painting series,Creative,COMPLETED
+1166,167,2024-02-22,ABANDONED,0.0,Lack of money,STUDY FOR A CERTIFICATION EXAM,Learning & Skills,ABANDONED
+1167,212,2023-08-16,RESEARCHED,1.7,,Write a long-overdue message,Relationships,OPEN/STALLED
+1168,267,2024-02-15,RESEARCHED,1.5,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+1169,236,2024-04-04,CREATED,0.0,,Study for a certification exam,Learning & Skills,OPEN/STALLED
+1170,1,2025-01-29,CREATED,0.0,,Learn SQL properly,Learning & Skills,OPEN/STALLED
+1171,203,2025-05-15,CREATED,0.0,,Track spending for a month,Financial,OPEN/STALLED
+1172,301,2023-04-06,RESEARCHED,0.3,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+1173,89,2023-08-04,CREATED,0.0,,Pay off a small debt,Financial,OPEN/STALLED
+1174,103,2023-08-28,RESEARCHED,0.3,,Improve sleep schedule,Fitness & Health,ABANDONED
+1175,285,2024-10-10,RESEARCHED,2.4,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+1176,154,2024-11-07,CREATED,0.0,,Redesign a personal art portfolio,Creative,OPEN/STALLED
+1177,310,2025-03-31,CREATED,0.0,,Cut down on sugar,Fitness & Health,OPEN/STALLED
+1178,122,2024-02-11,CREATED,0.0,,Start a small garden,Hobby,OPEN/STALLED
+1179,60,2023-11-09,RESEARCHED,0.7,,Start a photography project,Creative,REPLACED
+1180,137,2023-04-06,CREATED,0.0,,Plan a solo trip,Travel,OPEN/STALLED
+1181,214,2025-03-24,POSTPONED,0.0,No accountability,Plan a weekend getaway,Travel,COMPLETED
+1182,160,2024-05-16,RESEARCHED,1.4,,Research a relocation destination,Travel,OPEN/STALLED
+1183,275,2024-05-31,ABANDONED,0.0,Lack of motivation,Start a small blog,Side Project,ABANDONED
+1184,177,2024-06-22,RESEARCHED,3.1,,Plan a weekend getaway,Travel,ABANDONED
+1185,157,2025-01-10,RESEARCHED,0.6,,Research a relocation destination,Travel,COMPLETED
+1186,312,2023-11-02,RESEARCHED,0.3,,Start a small blog,Side Project,COMPLETED
+1187,305,2024-07-04,ABANDONED,0.0,Perfectionism / fear of failure,Plan a solo trip,Travel,ABANDONED
+1188,173,2023-09-05,CONTINUED,7.0,,Plan a solo trip,Travel,COMPLETED
+1189,269,2025-06-18,RESEARCHED,1.7,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1190,39,2024-03-05,CONTINUED,0.0,,Start a freelance side gig,Side Project,COMPLETED
+1191,101,2025-01-02,CONTINUED,5.8,,Start a niche newsletter,Side Project,ABANDONED
+1192,9,2024-08-27,STARTED,0.0,,Plan a family visit,Relationships,COMPLETED
+1193,15,2023-11-07,RESEARCHED,2.8,,Create a travel budget,Travel,OPEN/STALLED
+1194,101,2024-12-06,STARTED,0.0,,Start a niche newsletter,Side Project,ABANDONED
+1195,41,2025-04-06,CREATED,0.0,,Try a new craft technique,Creative,OPEN/STALLED
+1196,108,2025-03-16,STARTED,0.0,,Repair a strained relationship,Relationships,OPEN/STALLED
+1197,192,2024-01-25,CREATED,0.0,,Update personal records,Home & Admin,OPEN/STALLED
+1198,258,2024-03-09,ABANDONED,0.0,Blocked by dependency,Renew an expiring document,Home & Admin,ABANDONED
+1199,127,2024-04-26,PLANNED,0.0,,Book a long-postponed trip,Travel,COMPLETED
+1200,85,2024-11-10,CREATED,0.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+1201,95,2024-04-17,PLANNED,0.0,,Repair a strained relationship,Relationships,ABANDONED
+1202,76,2023-08-17,CREATED,0.0,,Review and cut subscriptions,Financial,OPEN/STALLED
+1203,241,2023-04-23,PLANNED,0.0,,Start journaling regularly,Hobby,ABANDONED
+1204,234,2023-05-23,RESEARCHED,0.4,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+1205,186,2025-04-19,CONTINUED,1.1,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+1206,297,2024-01-21,CREATED,0.0,,Learn the basics of investing,Financial,ABANDONED
+1207,96,2024-01-11,CONTINUED,1.7,,Learn touch typing,Learning & Skills,COMPLETED
+1208,165,2024-12-29,RESEARCHED,1.4,,Research flights for a trip,Travel,OPEN/STALLED
+1209,57,2025-04-16,PLANNED,0.0,,Research visa requirements,Travel,ABANDONED
+1210,254,2023-01-30,CREATED,0.0,,Start a puzzle-solving habit,Hobby,COMPLETED
+1211,214,2025-05-24,CONTINUED,1.9,,Plan a weekend getaway,Travel,COMPLETED
+1212,260,2023-02-20,CREATED,0.0,,Start meditating daily,Fitness & Health,ABANDONED
+1213,250,2024-09-26,RESEARCHED,0.7,,Prepare for technical interviews,Career,OPEN/STALLED
+1214,100,2024-04-05,CREATED,0.0,,Learn to cook healthier meals,Fitness & Health,OPEN/STALLED
+1215,85,2024-12-02,PLANNED,0.0,,START A READING CHALLENGE,Hobby,OPEN/STALLED
+1216,165,2025-02-01,CONTINUED,0.7,,Research flights for a trip,Travel,OPEN/STALLED
+1217,7,2023-06-20,RESEARCHED,0.0,,Study for a certification exam,Learning & Skills,ABANDONED
+1218,155,2023-06-25,RESEARCHED,0.9,,Start a small blog,Side Project,OPEN/STALLED
+1219,282,2023-06-01,CONTINUED,2.4,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+1220,33,2025-07-02,PLANNED,0.0,,Compare insurance providers,Financial,OPEN/STALLED
+1221,20,2024-11-24,STARTED,0.0,,Start a small garden,Hobby,COMPLETED
+1222,258,2024-02-10,RESEARCHED,8.1,,Renew an expiring document,Home & Admin,ABANDONED
+1223,291,2024-02-01,CREATED,0.0,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+1224,313,2023-07-29,POSTPONED,0.0,Unclear next step,Research flights for a trip,Travel,ABANDONED
+1225,200,2024-12-16,STARTED,0.0,,Start sketching daily,Creative,ABANDONED
+1226,253,2023-08-20,CREATED,0.0,,Plan a savings goal,Financial,OPEN/STALLED
+1227,5,2024-09-12,RESEARCHED,1.1,,Start sketching daily,Creative,ABANDONED
+1228,102,2023-10-06,CREATED,0.0,,RESEARCH INVESTMENT OPTIONS,Financial,OPEN/STALLED
+1229,287,2025-02-24,ABANDONED,0.0,No accountability,Plan a road trip route,Travel,ABANDONED
+1230,123,2025-03-31,ABANDONED,0.0,Competing priorities,Practice a new software tool weekly,Learning & Skills,ABANDONED
+1231,13,2023-11-13,ABANDONED,0.0,Lost interest,Set up a filing system,Home & Admin,ABANDONED
+1232,254,2023-03-26,RESEARCHED,1.3,,Start a puzzle-solving habit,Hobby,COMPLETED
+1233,165,2025-03-19,CONTINUED,5.0,,Research flights for a trip,Travel,OPEN/STALLED
+1234,80,2023-03-29,RESEARCHED,1.1,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+1235,107,2023-12-27,CREATED,0.0,,Plan a solo trip,Travel,ABANDONED
+1236,51,2023-02-21,CREATED,0.0,,Organize digital files,Home & Admin,COMPLETED
+1237,187,2024-06-22,POSTPONED,0.0,Perfectionism / fear of failure,Write a long-overdue message,Relationships,OPEN/STALLED
+1238,308,2024-11-25,CREATED,0.0,,Try a new craft technique,Creative,COMPLETED
+1239,206,2024-10-26,ABANDONED,0.0,Lack of time,BUILD AN EMERGENCY FUND,Financial,ABANDONED
+1240,40,2025-03-03,PLANNED,0.0,,BUILD AN AUTOMATION SCRIPT,Side Project,ABANDONED
+1241,217,2023-05-07,CREATED,0.0,,Learn the basics of investing,Financial,OPEN/STALLED
+1242,65,2025-07-05,CONTINUED,0.3,,Learn touch typing,Learning & Skills,OPEN/STALLED
+1243,282,2023-05-02,CONTINUED,5.3,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+1244,110,2024-11-15,CREATED,0.0,,Plan a date night routine,Relationships,OPEN/STALLED
+1245,13,2023-08-13,RESEARCHED,0.0,,Set up a filing system,Home & Admin,ABANDONED
+1246,234,2023-06-12,PLANNED,0.0,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+1247,160,2024-06-02,RESEARCHED,60.0,,Research a relocation destination,Travel,OPEN/STALLED
+1248,235,2023-09-29,CREATED,0.0,,Get a professional certification,Career,OPEN/STALLED
+1249,34,2025-02-11,RESEARCHED,0.7,,Contribute to an open-source project,Side Project,OPEN/STALLED
+1250,225,2024-05-01,POSTPONED,0.0,Competing priorities,Plan a road trip route,Travel,REPLACED
+1251,171,2024-11-30,PLANNED,0.0,,Build a personal data project,Side Project,COMPLETED
+1252,135,2023-03-29,CREATED,0.0,,Prototype a small app idea,Side Project,COMPLETED
+1253,120,2025-03-17,RESEARCHED,1.6,,Research flights for a trip,Travel,OPEN/STALLED
+1254,120,2025-04-17,RESEARCHED,2.7,,Research flights for a trip,Travel,OPEN/STALLED
+1255,173,2023-09-11,CONTINUED,4.3,,Plan a solo trip,Travel,COMPLETED
+1256,92,2024-11-19,CREATED,0.0,,READ ONE BOOK ON STATISTICS,Learning & Skills,OPEN/STALLED
+1257,263,2023-12-05,POSTPONED,0.0,Lost interest,Plan a family visit,Relationships,COMPLETED
+1258,17,2023-03-09,CREATED,0.0,,Send a thank-you note,Relationships,ABANDONED
+1259,25,2024-05-21,COMPLETED,0.0,,Renew an expiring document,Home & Admin,COMPLETED
+1260,315,2024-02-10,CREATED,0.0,,Call an old friend,Relationships,OPEN/STALLED
+1261,224,2025-07-10,RESEARCHED,1.0,,Start journaling regularly,Hobby,OPEN/STALLED
+1262,283,2023-02-27,CREATED,0.0,,Plan a savings goal,Financial,OPEN/STALLED
+1263,49,2024-02-03,POSTPONED,0.0,Lack of time,Set up automatic savings,Financial,COMPLETED
+1264,209,2024-11-26,RESEARCHED,1.4,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+1265,257,2023-09-01,RESEARCHED,2.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+1266,55,2024-01-15,CONTINUED,1.3,,Schedule regular calls with family,Relationships,COMPLETED
+1267,170,2024-04-07,CONTINUED,0.9,,Research a relocation destination,Travel,ABANDONED
+1268,273,2025-05-01,CREATED,0.0,,Collect and organize a hobby set,Hobby,OPEN/STALLED
+1269,237,2023-11-20,ABANDONED,0.0,No accountability,Research flights for a trip,Travel,ABANDONED
+1270,304,2025-05-01,CREATED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+1271,91,2023-10-18,CREATED,0.0,,Start going to the gym 3x/week,Fitness & Health,COMPLETED
+1272,4,2025-01-03,CREATED,0.0,,Prototype a small app idea,Side Project,OPEN/STALLED
+1273,120,2025-03-12,RESEARCHED,0.5,,Research flights for a trip,Travel,OPEN/STALLED
+1274,210,2023-11-13,CREATED,0.0,,Learn SQL properly,Learning & Skills,OPEN/STALLED
+1275,10,2024-12-22,CREATED,0.0,,Try a new recipe every week,Hobby,OPEN/STALLED
+1276,7,2023-07-05,ABANDONED,0.0,Competing priorities,Study for a certification exam,Learning & Skills,ABANDONED
+1277,39,2024-01-04,PLANNED,0.0,,Start a freelance side gig,Side Project,COMPLETED
+1278,127,2024-03-20,RESEARCHED,1.8,,Book a long-postponed trip,Travel,COMPLETED
+1279,232,2025-04-01,RESEARCHED,2.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+1280,299,2023-01-19,CREATED,0.0,,Build an automation script,Side Project,OPEN/STALLED
+1281,127,2024-04-21,POSTPONED,0.0,Lack of money,Book a long-postponed trip,Travel,COMPLETED
+1282,174,2023-05-09,RESEARCHED,1.2,,PLAN A TRIP ITINERARY,Travel,OPEN/STALLED
+1283,101,2025-01-23,CONTINUED,0.5,,Start a niche newsletter,Side Project,ABANDONED
+1284,309,2025-07-19,CONTINUED,0.0,,Plan a weekend getaway,Travel,OPEN/STALLED
+1285,59,2024-06-15,RESEARCHED,0.4,,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+1286,292,2025-03-19,CREATED,0.0,,Start a houseplant collection,Hobby,ABANDONED
+1287,286,2024-07-21,CREATED,0.0,,Plan a road trip route,Travel,OPEN/STALLED
+1288,303,2023-06-25,RESEARCHED,1.2,,Automate a recurring bill payment,Home & Admin,OPEN/STALLED
+1289,8,2025-04-27,RESEARCHED,0.9,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+1290,304,2025-06-18,PLANNED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+1291,231,2023-08-01,CREATED,0.0,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+1292,26,2025-01-19,ABANDONED,0.0,Low energy / burnout,Ask for a performance review,Career,ABANDONED
+1293,308,2025-03-05,CONTINUED,2.2,,Try a new craft technique,Creative,COMPLETED
+1294,18,2024-02-22,RESEARCHED,0.5,,Learn a new design software,Creative,ABANDONED
+1295,17,2023-03-29,RESEARCHED,0.9,,Send a thank-you note,Relationships,ABANDONED
+1296,278,2023-08-30,CREATED,0.0,,RENEW AN EXPIRING DOCUMENT,Home & Admin,OPEN/STALLED
+1297,215,2023-05-25,CREATED,0.0,,Research a relocation destination,Travel,OPEN/STALLED
+1298,173,2023-08-15,PLANNED,0.0,,Plan a solo trip,Travel,COMPLETED
+1299,5,2024-10-30,POSTPONED,0.0,Blocked by dependency,Start sketching daily,Creative,ABANDONED
+1300,227,2025-03-29,CONTINUED,3.7,,Organize digital files,Home & Admin,ABANDONED
+1301,68,2025-05-04,CREATED,0.0,,Start a niche newsletter,Side Project,OPEN/STALLED
+1302,82,2023-10-02,RESEARCHED,0.6,,Organize a small get-together,Relationships,OPEN/STALLED
+1303,169,2025-04-13,CREATED,0.0,,Compare insurance providers,Financial,ABANDONED
+1304,223,2024-02-25,PLANNED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+1305,160,2024-05-31,RESEARCHED,0.3,,Research a relocation destination,Travel,OPEN/STALLED
+1306,34,2025-01-19,RESEARCHED,0.9,,Contribute to an open-source project,Side Project,OPEN/STALLED
+1307,50,2023-10-31,CREATED,0.0,,Train for a 5k run,Fitness & Health,OPEN/STALLED
+1308,311,2025-07-26,ABANDONED,0.0,Lost interest,Build a portfolio website,Career,ABANDONED
+1309,199,2024-05-24,CREATED,0.0,,Try a new recipe every week,Hobby,ABANDONED
+1310,60,2023-10-30,RESEARCHED,1.9,,Start a photography project,Creative,REPLACED
+1311,285,2024-09-21,CREATED,0.0,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+1312,222,2023-05-29,PLANNED,0.0,,Research a relocation destination,Travel,REPLACED
+1313,88,2024-08-21,PLANNED,0.0,,Reduce screen time before bed,Fitness & Health,OPEN/STALLED
+1314,205,2024-12-17,CREATED,0.0,,Start a puzzle-solving habit,Hobby,OPEN/STALLED
+1315,233,2023-05-24,RESEARCHED,1.6,,Review and cut subscriptions,Financial,ABANDONED
+1316,176,2024-05-28,ABANDONED,0.0,Lack of motivation,Write short stories weekly,Creative,ABANDONED
+1317,282,2023-03-11,CREATED,0.0,,Learn to cook healthier meals,Fitness & Health,COMPLETED
+1318,2,2023-05-18,ABANDONED,0.0,No accountability,Practice a new software tool weekly,Learning & Skills,ABANDONED
+1319,289,2024-12-10,POSTPONED,0.0,Low energy / burnout,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+1320,222,2023-04-29,RESEARCHED,4.7,,Research a relocation destination,Travel,REPLACED
+1321,39,2023-12-05,RESEARCHED,0.4,,Start a freelance side gig,Side Project,COMPLETED
+1322,79,2025-07-01,RESEARCHED,1.0,,Update CV and LinkedIn profile,Career,OPEN/STALLED
+1323,291,2024-04-14,STARTED,0.0,,FIX A RECURRING HOUSEHOLD ISSUE,Home & Admin,COMPLETED
+1324,131,2023-10-10,RESEARCHED,0.8,,Track spending for a month,Financial,OPEN/STALLED
+1325,287,2024-11-30,POSTPONED,0.0,Blocked by dependency,Plan a road trip route,Travel,ABANDONED
+1326,111,2023-08-18,CONTINUED,4.9,,LEARN TO COOK HEALTHIER MEALS,Fitness & Health,COMPLETED
+1327,108,2025-07-19,CONTINUED,0.8,,Repair a strained relationship,Relationships,OPEN/STALLED
+1328,247,2025-07-22,COMPLETED,0.0,,Finish an online Python course,Learning & Skills,COMPLETED
+1329,14,2024-06-30,CREATED,0.0,,Start journaling regularly,Hobby,REPLACED
+1330,224,2025-06-25,CREATED,0.0,,Start journaling regularly,Hobby,OPEN/STALLED
+1331,96,2023-08-14,RESEARCHED,0.0,,Learn touch typing,Learning & Skills,COMPLETED
+1332,133,2024-02-07,RESEARCHED,0.2,,Learn key phrases for a trip,Travel,ABANDONED
+1333,284,2024-04-07,CREATED,0.0,,Track spending for a month,Financial,ABANDONED
+1334,5,2024-08-26,CREATED,0.0,,Start sketching daily,Creative,ABANDONED
+1335,157,2025-03-27,STARTED,0.0,,Research a relocation destination,Travel,COMPLETED
+1336,186,2025-02-16,RESEARCHED,1.6,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+1337,2,2023-03-31,CREATED,0.0,,Practice a new software tool weekly,Learning & Skills,ABANDONED
+1338,28,2024-09-05,CREATED,0.0,,Start a small blog,Side Project,ABANDONED
+1339,45,2023-10-13,CREATED,0.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+1340,299,2023-03-11,CONTINUED,1.1,,Build an automation script,Side Project,OPEN/STALLED
+1341,55,2024-02-28,CONTINUED,0.4,,Schedule regular calls with family,Relationships,COMPLETED
+1342,223,2024-01-21,RESEARCHED,0.0,,Schedule regular calls with family,Relationships,COMPLETED
+1343,227,2025-05-01,POSTPONED,0.0,Lack of motivation,Organize digital files,Home & Admin,ABANDONED
+1344,78,2025-01-13,ABANDONED,0.0,Overestimated effort required,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+1345,148,2024-08-26,RESEARCHED,0.9,,Research a relocation destination,Travel,OPEN/STALLED
+1346,132,2024-05-21,CREATED,0.0,,Declutter the apartment,Home & Admin,OPEN/STALLED
+1347,30,2023-09-04,CREATED,0.0,,Finish a painting series,Creative,COMPLETED
+1348,116,2024-04-26,CREATED,0.0,,Create a monthly budget,Financial,ABANDONED
+1349,127,2024-09-17,COMPLETED,0.0,,Book a long-postponed trip,Travel,COMPLETED
+1350,129,2025-03-15,RESEARCHED,0.0,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+1351,57,2025-03-12,RESEARCHED,1.6,,Research visa requirements,Travel,ABANDONED
+1352,144,2023-11-06,PLANNED,0.0,,Learn salary negotiation,Career,ABANDONED
+1353,41,2025-04-17,RESEARCHED,0.6,,Try a new craft technique,Creative,OPEN/STALLED
+1354,3,2023-08-12,CREATED,0.0,,Apply to 10 jobs abroad,Career,ABANDONED
+1355,86,2025-02-07,REPLACED,0.0,Replaced by a different priority,Start a freelance side gig,Side Project,REPLACED
+1356,17,2023-05-17,POSTPONED,0.0,Overestimated effort required,Send a thank-you note,Relationships,ABANDONED
+1357,41,2025-06-03,PLANNED,0.0,,Try a new craft technique,Creative,OPEN/STALLED
+1358,232,2025-04-06,RESEARCHED,0.0,,Renew an expiring document,Home & Admin,OPEN/STALLED
+1359,71,2024-10-16,RESEARCHED,0.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+1360,243,2025-06-07,RESEARCHED,0.6,,Finish an online Python course,Learning & Skills,OPEN/STALLED
+1361,159,2023-06-06,CONTINUED,2.7,,Train for a 5k run,Fitness & Health,COMPLETED
+1362,288,2023-06-02,CONTINUED,8.3,,Build a portfolio project,Side Project,OPEN/STALLED
+1363,57,2025-04-14,POSTPONED,0.0,Competing priorities,Research visa requirements,Travel,ABANDONED
+1364,234,2023-07-27,CONTINUED,0.8,,LEARN SQL PROPERLY,Learning & Skills,OPEN/STALLED
+1365,9,2024-08-13,RESEARCHED,1.0,,Plan a family visit,Relationships,COMPLETED
+1366,202,2024-10-03,REPLACED,0.0,Replaced by a different priority,Research visa requirements,Travel,REPLACED
+1367,78,2024-12-16,RESEARCHED,0.2,,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+1368,308,2024-12-20,RESEARCHED,1.2,,Try a new craft technique,Creative,COMPLETED
+1369,197,2023-10-23,PLANNED,0.0,,Write a long-overdue message,Relationships,COMPLETED
+1370,68,2025-05-24,RESEARCHED,2.3,,Start a niche newsletter,Side Project,OPEN/STALLED
+1371,218,2025-04-23,RESEARCHED,1.7,,Start a small garden,Hobby,OPEN/STALLED
+1372,267,2024-08-10,CONTINUED,0.8,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+1373,78,2024-11-26,CREATED,0.0,,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+1374,242,2024-06-27,CREATED,0.0,,Join a local social group,Relationships,OPEN/STALLED
+1375,25,2023-11-23,POSTPONED,0.0,Lack of motivation,Renew an expiring document,Home & Admin,COMPLETED
+1376,133,2024-03-18,CONTINUED,3.0,,Learn key phrases for a trip,Travel,ABANDONED
+1377,219,2024-09-21,POSTPONED,0.0,Low energy / burnout,Read one book on statistics,Learning & Skills,OPEN/STALLED
+1378,320,2023-09-08,RESEARCHED,1.1,,Learn to use Power BI,Learning & Skills,OPEN/STALLED
+1379,30,2023-12-26,CONTINUED,1.4,,Finish a painting series,Creative,COMPLETED
+1380,228,2023-11-18,RESEARCHED,0.4,,Research career change options,Career,OPEN/STALLED
+1381,306,2024-03-17,CONTINUED,7.0,,Plan a road trip route,Travel,COMPLETED
+1382,131,2023-11-25,POSTPONED,0.0,Blocked by dependency,Track spending for a month,Financial,OPEN/STALLED
+1383,127,2024-08-13,CONTINUED,1.1,,Book a long-postponed trip,Travel,COMPLETED
+1384,69,2023-03-31,STARTED,0.0,,Call an old friend,Relationships,REPLACED
+1385,129,2025-03-04,CREATED,0.0,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+1386,153,2024-10-14,RESEARCHED,4.0,,Plan a savings goal,Financial,OPEN/STALLED
+1387,137,2023-04-25,RESEARCHED,1.3,,Plan a solo trip,Travel,OPEN/STALLED
+1388,189,2024-04-28,RESEARCHED,4.2,,Learn basic public speaking,Learning & Skills,OPEN/STALLED
+1389,176,2024-05-12,PLANNED,0.0,,Write short stories weekly,Creative,ABANDONED
+1390,35,2024-10-27,CREATED,0.0,,Join a local social group,Relationships,OPEN/STALLED
+1391,25,2023-12-09,PLANNED,0.0,,Renew an expiring document,Home & Admin,COMPLETED
+1392,177,2024-08-30,ABANDONED,0.0,Perfectionism / fear of failure,Plan a weekend getaway,Travel,ABANDONED
+1393,170,2024-02-27,CONTINUED,0.0,,Research a relocation destination,Travel,ABANDONED
+1394,166,2024-03-22,CREATED,0.0,,Start meditating daily,Fitness & Health,OPEN/STALLED
+1395,186,2025-05-13,CONTINUED,0.9,,FIND A MENTOR IN MY FIELD,Career,COMPLETED
+1396,276,2025-07-28,CONTINUED,2.3,,Try a new craft technique,Creative,COMPLETED
+1397,263,2023-10-25,RESEARCHED,0.7,,Plan a family visit,Relationships,COMPLETED
+1398,246,2023-06-06,CREATED,0.0,,Set up automatic savings,Financial,OPEN/STALLED
+1399,9,2025-01-13,COMPLETED,0.0,,Plan a family visit,Relationships,COMPLETED
+1400,22,2025-03-22,CREATED,0.0,,Improve sleep schedule,Fitness & Health,OPEN/STALLED
+1401,78,2025-01-13,ABANDONED,0.0,Overestimated effort required,LAUNCH A SMALL ONLINE SHOP,Side Project,ABANDONED
+1402,76,2024-01-25,CONTINUED,2.8,,Review and cut subscriptions,Financial,OPEN/STALLED
+1403,135,2023-06-18,STARTED,0.0,,Prototype a small app idea,Side Project,COMPLETED
+1404,49,2023-11-08,RESEARCHED,0.6,,Set up automatic savings,Financial,COMPLETED
+1405,56,2024-02-10,CREATED,0.0,,Redesign a personal art portfolio,Creative,ABANDONED
+1406,80,2023-03-13,RESEARCHED,0.6,,Learn a card or board game deeply,Hobby,OPEN/STALLED
+1407,39,2023-11-12,RESEARCHED,0.8,,Start a freelance side gig,Side Project,COMPLETED
+1408,227,2024-12-03,CREATED,0.0,,Organize digital files,Home & Admin,ABANDONED
+1409,212,2023-11-16,CONTINUED,2.0,,Write a long-overdue message,Relationships,OPEN/STALLED
+1410,71,2024-10-19,RESEARCHED,1.0,,Build a personal dashboard,Side Project,OPEN/STALLED
+1411,18,2024-05-26,ABANDONED,0.0,Lack of time,Learn a new design software,Creative,ABANDONED
+1412,53,2024-12-08,RESEARCHED,4.6,,Start a houseplant collection,Hobby,OPEN/STALLED
+1413,69,2023-08-11,REPLACED,0.0,Replaced by a different priority,Call an old friend,Relationships,REPLACED
+1414,267,2024-01-25,CREATED,0.0,,IMPROVE SLEEP SCHEDULE,Fitness & Health,OPEN/STALLED
+1415,41,2025-06-09,CONTINUED,3.3,,Try a new craft technique,Creative,OPEN/STALLED
+1416,97,2025-07-05,STARTED,0.0,,Prepare for technical interviews,Career,OPEN/STALLED
+1417,139,2024-02-20,ABANDONED,0.0,Blocked by dependency,Build a personal dashboard,Side Project,ABANDONED
+1418,134,2024-12-19,CREATED,0.0,,Plan a savings goal,Financial,OPEN/STALLED

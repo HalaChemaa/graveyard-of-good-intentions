@@ -1,0 +1,18 @@
+DATA CLEANING REPORT
+============================================================
+Raw rows read:                 1432
+Rows after cleaning (events):  1418
+Intentions loaded:             320
+------------------------------------------------------------
+exact_duplicate_rows_removed                 : 14
+category_values_unmapped                     : 0
+event_type_values_unmapped                   : 0
+has_deadline_unparsed_defaulted_false        : 0
+event_dates_unparseable                      : 0
+events_before_creation_date_fixed            : 0
+negative_hours_spent_fixed                   : 8
+extreme_hours_outliers_capped                : 13
+missing_perceived_importance_after_cleaning  : 5
+missing_urgency_after_cleaning               : 6
+missing_personal_interest_after_cleaning     : 2
+missing_career_relevance_after_cleaning      : 12

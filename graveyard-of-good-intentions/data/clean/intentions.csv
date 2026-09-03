@@ -1,0 +1,321 @@
+intention_id,title,motivation,date_created,perceived_importance,urgency,personal_interest,career_relevance,estimated_effort_hours,has_deadline,deadline_date,category_id
+1,Learn SQL properly,Personal growth,2025-01-29,3.0,2.0,4.0,4.0,6.6,True,2025-04-10,7
+2,Practice a new software tool weekly,Career advancement,2023-03-31,2.0,4.0,4.0,1.0,13.3,False,,7
+3,Apply to 10 jobs abroad,Career advancement,2023-08-12,2.0,2.0,3.0,1.0,1.7,True,2024-01-27,1
+4,Prototype a small app idea,Obligation / should-do,2025-01-03,2.0,1.0,3.0,1.0,2.3,False,,9
+5,Start sketching daily,Personal growth,2024-08-26,4.0,2.0,3.0,1.0,5.0,True,2024-09-10,2
+6,Plan a date night routine,Health & wellbeing,2023-10-12,3.0,1.0,3.0,1.0,6.3,True,2024-01-20,8
+7,Study for a certification exam,Curiosity / fun,2023-04-10,2.0,4.0,3.0,1.0,17.1,False,,7
+8,Start a puzzle-solving habit,Health & wellbeing,2025-04-06,1.0,2.0,1.0,1.0,9.7,True,2025-08-15,5
+9,Plan a family visit,Curiosity / fun,2024-07-19,4.0,2.0,3.0,1.0,2.2,False,,8
+10,Try a new recipe every week,Financial security,2024-12-22,2.0,2.0,4.0,1.0,1.7,True,2025-06-23,5
+11,CREATE A MONTHLY BUDGET,Obligation / should-do,2025-05-25,3.0,2.0,2.0,3.0,20.7,True,2025-07-03,3
+12,Learn the basics of investing,Personal growth,2024-10-12,4.0,,3.0,2.0,19.6,False,,3
+13,Set up a filing system,Health & wellbeing,2023-08-03,2.0,2.0,2.0,1.0,17.0,False,,6
+14,Start journaling regularly,Personal growth,2024-06-30,4.0,2.0,4.0,1.0,4.6,False,,5
+15,Create a travel budget,Financial security,2023-10-04,3.0,4.0,3.0,3.0,0.8,False,,10
+16,Declutter the apartment,Curiosity / fun,2023-08-23,4.0,2.0,3.0,1.0,1.4,False,,6
+17,Send a thank-you note,Curiosity / fun,2023-03-09,2.0,3.0,5.0,1.0,3.9,True,2023-08-15,8
+18,Learn a new design software,Creative expression,2024-02-10,2.0,3.0,3.0,1.0,13.0,False,,2
+19,Start a home workout routine,Social connection,2023-05-23,3.0,3.0,2.0,1.0,,True,2023-10-27,4
+20,Start a small garden,Financial security,2024-08-20,1.0,2.0,3.0,1.0,6.6,False,,5
+21,Start meditating daily,Health & wellbeing,2024-05-20,1.0,2.0,2.0,1.0,7.1,True,2024-06-15,4
+22,Improve sleep schedule,Health & wellbeing,2025-03-22,3.0,4.0,3.0,,7.6,False,,4
+23,Reconnect with a former colleague,Social connection,2024-09-02,,2.0,3.0,4.0,6.9,False,,8
+24,Build a personal data project,Social connection,2024-11-27,3.0,2.0,1.0,4.0,16.1,False,,9
+25,Renew an expiring document,Creative expression,2023-10-28,4.0,1.0,5.0,1.0,13.8,False,,6
+26,Ask for a performance review,Health & wellbeing,2024-05-27,5.0,1.0,2.0,2.0,5.2,False,,1
+27,Pay off a small debt,Personal growth,2023-06-06,1.0,2.0,2.0,3.0,3.6,False,,3
+28,Start a small blog,Career advancement,2024-09-05,4.0,1.0,3.0,3.0,2.7,False,,9
+29,Read one book on statistics,Social connection,2025-06-18,3.0,4.0,1.0,2.0,10.3,False,,7
+30,Finish a painting series,Health & wellbeing,2023-09-04,4.0,1.0,1.0,2.0,10.7,False,,2
+31,Learn basic public speaking,Personal growth,2024-05-12,3.0,3.0,2.0,2.0,10.6,False,,7
+32,Learn to cook healthier meals,Personal growth,2024-05-01,2.0,4.0,3.0,1.0,14.7,False,,4
+33,Compare insurance providers,Financial security,2025-06-12,2.0,3.0,4.0,1.0,19.4,False,,3
+34,Contribute to an open-source project,Social connection,2025-01-17,3.0,3.0,5.0,2.0,4.1,False,,9
+35,Join a local social group,Creative expression,2024-10-27,,1.0,3.0,,10.5,False,,8
+36,LEARN CONVERSATIONAL SPANISH,Financial security,2023-08-19,4.0,2.0,5.0,2.0,94.5,True,2023-09-07,7
+37,Learn basic woodworking,Career advancement,2023-01-08,3.0,1.0,2.0,2.0,6.7,True,2023-07-02,5
+38,WRITE SHORT STORIES WEEKLY,Health & wellbeing,2023-02-02,3.0,3.0,3.0,1.0,2.1,False,,2
+39,Start a freelance side gig,Financial security,2023-10-13,2.0,3.0,3.0,1.0,9.5,False,,9
+40,BUILD AN AUTOMATION SCRIPT,Creative expression,2025-01-10,3.0,1.0,3.0,2.0,2.9,False,,9
+41,Try a new craft technique,Health & wellbeing,2025-04-06,3.0,3.0,4.0,2.0,2.4,False,,2
+42,Learn touch typing,Creative expression,2023-12-29,2.0,3.0,4.0,3.0,261.8,False,,7
+43,Get a professional certification,Curiosity / fun,2023-03-04,3.0,3.0,4.0,3.0,6.1,False,,1
+44,Finish an online Python course,Personal growth,2023-07-16,4.0,1.0,3.0,1.0,8.8,True,2023-11-21,7
+45,Write a long-overdue message,Health & wellbeing,2023-10-13,5.0,1.0,4.0,1.0,5.3,False,,8
+46,Plan a road trip route,Career advancement,2023-04-11,4.0,2.0,2.0,1.0,15.1,True,2023-09-10,10
+47,Learn to use Power BI,Creative expression,2023-06-20,2.0,2.0,3.0,,56.2,False,,7
+48,Enter a local art competition,Obligation / should-do,2023-03-02,3.0,1.0,3.0,1.0,17.6,True,2023-03-16,2
+49,Set up automatic savings,Creative expression,2023-10-20,2.0,2.0,4.0,3.0,2.8,False,,3
+50,Train for a 5k run,Career advancement,2023-10-31,2.0,2.0,2.0,3.0,11.8,True,2023-11-28,4
+51,Organize digital files,Personal growth,2023-02-21,1.0,3.0,5.0,2.0,2.1,False,,6
+52,Build a portfolio website,Health & wellbeing,2023-03-24,2.0,4.0,2.0,3.0,16.4,False,,1
+53,Start a houseplant collection,Obligation / should-do,2024-11-22,2.0,2.0,1.0,1.0,6.5,False,,5
+54,Complete a data visualization course,Health & wellbeing,2024-08-15,1.0,4.0,1.0,1.0,9.2,False,,7
+55,Schedule regular calls with family,Curiosity / fun,2023-09-25,4.0,1.0,4.0,1.0,3.4,True,2024-04-09,8
+56,Redesign a personal art portfolio,Social connection,2024-02-10,3.0,2.0,2.0,1.0,5.8,True,2024-08-07,2
+57,Research visa requirements,Career advancement,2025-02-08,3.0,3.0,5.0,1.0,55.7,False,,10
+58,Plan a weekend getaway,Health & wellbeing,2024-07-30,1.0,2.0,4.0,1.0,4.7,False,,10
+59,LAUNCH A SMALL ONLINE SHOP,Health & wellbeing,2024-06-02,2.0,2.0,2.0,3.0,11.3,True,2024-09-13,9
+60,Start a photography project,Social connection,2023-10-19,2.0,3.0,3.0,2.0,14.4,True,2024-03-20,2
+61,Learn basic calligraphy,Social connection,2024-11-14,2.0,1.0,4.0,2.0,8.0,False,,5
+62,Learn conversational Spanish,Personal growth,2023-09-28,3.0,4.0,2.0,3.0,6.8,True,2023-11-08,7
+63,Research investment options,Financial security,2024-09-11,2.0,3.0,4.0,3.0,26.4,True,2024-12-21,3
+64,Plan a savings goal,Career advancement,2023-09-15,3.0,3.0,3.0,2.0,7.3,False,,3
+65,Learn touch typing,Curiosity / fun,2025-04-29,3.0,3.0,2.0,5.0,3.3,True,2025-05-13,7
+66,Book a full medical check-up,Obligation / should-do,2023-06-15,1.0,3.0,4.0,,14.4,False,,4
+67,Build a portfolio project,Personal growth,2023-04-25,,1.0,3.0,1.0,19.6,True,2023-11-01,9
+68,Start a niche newsletter,Personal growth,2025-05-04,3.0,1.0,3.0,3.0,4.9,False,,9
+69,Call an old friend,Career advancement,2023-02-12,2.0,2.0,3.0,1.0,5.3,False,,8
+70,Fix a recurring household issue,Curiosity / fun,2024-11-29,3.0,1.0,1.0,1.0,6.7,True,2025-01-08,6
+71,Build a personal dashboard,Financial security,2024-09-27,3.0,4.0,4.0,2.0,8.0,False,,9
+72,Cut down on sugar,Personal growth,2025-06-21,2.0,2.0,3.0,1.0,3.9,False,,4
+73,Update personal records,Financial security,2025-04-01,3.0,4.0,3.0,2.0,15.2,False,,6
+74,Build an emergency fund,Obligation / should-do,2025-03-17,2.0,2.0,3.0,2.0,4.1,False,,3
+75,Research career change options,Curiosity / fun,2023-08-16,3.0,3.0,5.0,3.0,56.7,True,2023-12-25,1
+76,Review and cut subscriptions,Obligation / should-do,2023-08-17,2.0,3.0,3.0,5.0,3.9,True,2023-10-19,3
+77,Reorganize the wardrobe,Curiosity / fun,2025-06-04,2.0,1.0,1.0,1.0,4.1,True,2025-08-28,6
+78,LAUNCH A SMALL ONLINE SHOP,Curiosity / fun,2024-11-26,3.0,3.0,5.0,3.0,4.9,False,,9
+79,Update CV and LinkedIn profile,Personal growth,2025-06-17,2.0,3.0,1.0,5.0,23.6,False,,1
+80,Learn a card or board game deeply,Curiosity / fun,2023-02-09,2.0,1.0,5.0,1.0,24.9,True,2023-06-14,5
+81,SELL UNUSED ITEMS ONLINE,Health & wellbeing,2024-09-12,1.0,1.0,3.0,1.0,5.4,False,,6
+82,Organize a small get-together,Career advancement,2023-09-18,3.0,1.0,3.0,1.0,13.0,True,2024-01-21,8
+83,Build a personal dashboard,Financial security,2024-12-04,3.0,1.0,1.0,4.0,11.0,False,,9
+84,Automate a recurring bill payment,Curiosity / fun,2023-03-13,2.0,4.0,3.0,2.0,8.7,False,,6
+85,START A READING CHALLENGE,Social connection,2024-11-10,5.0,4.0,3.0,2.0,14.6,False,,5
+86,Start a freelance side gig,Obligation / should-do,2024-11-13,4.0,1.0,4.0,3.0,1.7,False,,9
+87,Track spending for a month,Obligation / should-do,2023-07-16,1.0,,3.0,3.0,31.6,False,,3
+88,Reduce screen time before bed,Career advancement,2024-08-05,3.0,4.0,1.0,1.0,7.8,False,,4
+89,Pay off a small debt,Curiosity / fun,2023-08-04,3.0,2.0,1.0,2.0,2.5,False,,3
+90,Learn key phrases for a trip,Creative expression,2024-03-28,3.0,3.0,2.0,1.0,3.1,False,,10
+91,Start going to the gym 3x/week,Curiosity / fun,2023-10-18,3.0,3.0,2.0,2.0,5.1,False,,4
+92,READ ONE BOOK ON STATISTICS,Financial security,2024-11-19,2.0,2.0,2.0,1.0,2.8,False,,7
+93,Start daily stretching,Health & wellbeing,2023-02-17,5.0,2.0,2.0,,7.4,True,2023-07-02,4
+94,Plan a trip itinerary,Financial security,2025-06-26,2.0,3.0,4.0,1.0,4.9,False,,10
+95,Repair a strained relationship,Career advancement,2024-02-14,2.0,1.0,1.0,2.0,35.9,True,2024-08-13,8
+96,Learn touch typing,Creative expression,2023-08-13,2.0,3.0,3.0,5.0,22.4,True,2024-02-21,7
+97,Prepare for technical interviews,Creative expression,2025-05-18,3.0,1.0,1.0,2.0,4.1,True,2025-07-05,1
+98,Build a personal dashboard,Creative expression,2024-09-01,1.0,1.0,2.0,4.0,18.1,False,,9
+99,COLLECT AND ORGANIZE A HOBBY SET,Creative expression,2025-04-30,3.0,4.0,3.0,1.0,32.2,False,,5
+100,Learn to cook healthier meals,Social connection,2024-04-05,3.0,1.0,3.0,1.0,2.4,True,2024-06-21,4
+101,Start a niche newsletter,Health & wellbeing,2024-10-03,4.0,4.0,1.0,3.0,4.5,True,2025-02-06,9
+102,RESEARCH INVESTMENT OPTIONS,Health & wellbeing,2023-10-06,2.0,1.0,2.0,2.0,3.9,False,,3
+103,Improve sleep schedule,Personal growth,2023-08-25,3.0,2.0,3.0,1.0,4.9,False,,4
+104,Learn to play an instrument,Creative expression,2024-02-29,4.0,3.0,2.0,1.0,16.1,False,,2
+105,Call an old friend,Obligation / should-do,2023-07-31,1.0,3.0,2.0,2.0,4.1,False,,8
+106,Start a houseplant collection,Obligation / should-do,2025-05-27,1.0,1.0,3.0,1.0,3.6,False,,5
+107,Plan a solo trip,Obligation / should-do,2023-12-27,3.0,1.0,3.0,1.0,4.5,False,,10
+108,Repair a strained relationship,Financial security,2025-02-04,3.0,1.0,2.0,2.0,4.9,False,,8
+109,RESEARCH A RELOCATION DESTINATION,Career advancement,2023-10-07,4.0,1.0,4.0,3.0,0.9,False,,10
+110,Plan a date night routine,Obligation / should-do,2024-11-15,2.0,3.0,3.0,1.0,4.7,False,,8
+111,LEARN TO COOK HEALTHIER MEALS,Career advancement,2023-05-11,3.0,2.0,4.0,1.0,11.1,False,,4
+112,JOIN A LOCAL SOCIAL GROUP,Health & wellbeing,2024-07-31,2.0,2.0,2.0,1.0,5.6,False,,8
+113,WRITE A LONG-OVERDUE MESSAGE,Career advancement,2025-06-06,3.0,5.0,4.0,1.0,24.1,False,,8
+114,Compare insurance providers,Curiosity / fun,2023-12-02,2.0,1.0,2.0,1.0,6.0,True,2024-03-08,3
+115,Reconnect with a former colleague,Obligation / should-do,2025-02-09,3.0,4.0,3.0,1.0,17.2,False,,8
+116,Create a monthly budget,Career advancement,2024-04-26,1.0,2.0,4.0,1.0,22.9,True,2024-09-25,3
+117,Deep clean the kitchen,Career advancement,2024-10-27,3.0,2.0,4.0,3.0,9.6,True,2025-04-25,6
+118,Network with 5 people in target industry,Personal growth,2023-07-24,3.0,2.0,2.0,3.0,3.8,False,,1
+119,Restore an old creative project,Financial security,2024-04-29,3.0,,3.0,1.0,20.8,False,,2
+120,Research flights for a trip,Health & wellbeing,2025-02-24,2.0,2.0,2.0,1.0,11.5,False,,10
+121,Start a home workout routine,Social connection,2023-04-21,4.0,1.0,4.0,2.0,11.8,False,,4
+122,Start a small garden,Financial security,2024-02-11,5.0,1.0,1.0,1.0,31.4,False,,5
+123,Practice a new software tool weekly,Financial security,2024-12-08,3.0,2.0,3.0,1.0,73.8,False,,7
+124,Learn to use Power BI,Health & wellbeing,2025-05-20,3.0,2.0,4.0,3.0,10.0,False,,7
+125,Start a houseplant collection,Curiosity / fun,2023-12-22,2.0,3.0,5.0,2.0,34.3,False,,5
+126,Learn basic public speaking,Obligation / should-do,2024-10-25,2.0,1.0,3.0,2.0,21.9,False,,7
+127,Book a long-postponed trip,Creative expression,2024-03-19,1.0,4.0,3.0,1.0,3.3,False,,10
+128,Start daily stretching,Social connection,2023-06-30,1.0,3.0,3.0,1.0,2.5,False,,4
+129,Learn a card or board game deeply,Obligation / should-do,2025-03-04,2.0,4.0,3.0,1.0,6.5,False,,5
+130,Start a puzzle-solving habit,Health & wellbeing,2023-11-27,2.0,1.0,3.0,1.0,15.3,False,,5
+131,Track spending for a month,Obligation / should-do,2023-09-07,5.0,3.0,3.0,1.0,82.8,False,,3
+132,Declutter the apartment,Personal growth,2024-05-21,3.0,2.0,3.0,1.0,7.2,False,,6
+133,Learn key phrases for a trip,Curiosity / fun,2023-12-30,2.0,1.0,3.0,1.0,4.3,False,,10
+134,Plan a savings goal,Career advancement,2024-12-19,3.0,2.0,5.0,1.0,21.8,False,,3
+135,Prototype a small app idea,Creative expression,2023-03-29,4.0,1.0,2.0,1.0,2.3,True,2023-07-25,9
+136,Prototype a small app idea,Creative expression,2024-12-08,2.0,1.0,5.0,3.0,25.6,False,,9
+137,Plan a solo trip,Obligation / should-do,2023-04-06,3.0,1.0,2.0,2.0,2.7,False,,10
+138,Redesign a personal art portfolio,Creative expression,2024-11-10,3.0,2.0,2.0,2.0,12.2,False,,2
+139,Build a personal dashboard,Curiosity / fun,2023-12-19,2.0,3.0,2.0,3.0,13.9,False,,9
+140,Reorganize the wardrobe,Financial security,2023-10-05,2.0,2.0,1.0,2.0,6.9,False,,6
+141,Read one book on statistics,Personal growth,2023-11-20,2.0,3.0,2.0,1.0,2.0,True,2024-04-19,7
+142,Start a photography project,Social connection,2025-01-26,3.0,,5.0,1.0,37.6,False,,2
+143,Read one book on statistics,Social connection,2023-10-31,3.0,2.0,2.0,3.0,7.9,True,2023-12-29,7
+144,Learn salary negotiation,Social connection,2023-10-08,4.0,2.0,3.0,1.0,7.8,True,2023-11-04,1
+145,Learn to cook healthier meals,Social connection,2023-04-16,3.0,1.0,1.0,2.0,9.5,False,,4
+146,PLAN A TRIP ITINERARY,Career advancement,2024-03-27,2.0,2.0,3.0,1.0,4.1,False,,10
+147,Track spending for a month,Obligation / should-do,2023-04-27,3.0,1.0,3.0,1.0,20.6,False,,3
+148,Research a relocation destination,Career advancement,2024-08-13,3.0,2.0,4.0,3.0,20.3,False,,10
+149,Improve sleep schedule,Social connection,2025-04-10,1.0,1.0,2.0,1.0,13.0,False,,4
+150,Read one book on statistics,Obligation / should-do,2023-05-02,2.0,2.0,2.0,1.0,2.3,False,,7
+151,Start a reading challenge,Obligation / should-do,2025-03-20,2.0,1.0,2.0,2.0,3.5,False,,5
+152,Plan a trip itinerary,Obligation / should-do,2023-11-01,5.0,3.0,3.0,,15.3,False,,10
+153,Plan a savings goal,Financial security,2024-09-27,2.0,2.0,5.0,2.0,23.0,True,2024-11-05,3
+154,Redesign a personal art portfolio,Personal growth,2024-11-07,2.0,2.0,5.0,1.0,41.7,True,2025-01-21,2
+155,Start a small blog,Creative expression,2023-06-10,3.0,1.0,4.0,3.0,14.3,True,2023-10-17,9
+156,Build an emergency fund,Social connection,2023-08-26,1.0,1.0,3.0,2.0,14.3,False,,3
+157,Research a relocation destination,Financial security,2024-12-04,3.0,1.0,3.0,2.0,13.5,True,2025-02-23,10
+158,Plan a family visit,Social connection,2024-07-11,4.0,3.0,3.0,1.0,1.8,True,2024-09-01,8
+159,Train for a 5k run,Social connection,2023-03-03,3.0,2.0,3.0,1.0,3.1,True,2023-06-03,4
+160,Research a relocation destination,Obligation / should-do,2024-04-24,4.0,2.0,4.0,1.0,8.4,False,,10
+161,Learn the basics of investing,Health & wellbeing,2024-07-06,4.0,1.0,3.0,1.0,5.5,False,,3
+162,START A HOUSEPLANT COLLECTION,Curiosity / fun,2025-06-29,2.0,2.0,2.0,2.0,3.7,False,,5
+163,START A PUZZLE-SOLVING HABIT,Career advancement,2023-01-27,2.0,2.0,5.0,1.0,20.7,True,2023-08-01,5
+164,PLAN A SAVINGS GOAL,Personal growth,2023-02-11,1.0,2.0,4.0,2.0,21.3,False,,3
+165,Research flights for a trip,Social connection,2024-10-29,2.0,4.0,5.0,1.0,5.5,False,,10
+166,Start meditating daily,Creative expression,2024-03-22,4.0,4.0,2.0,1.0,6.3,False,,4
+167,STUDY FOR A CERTIFICATION EXAM,Curiosity / fun,2023-12-23,1.0,1.0,2.0,1.0,7.9,False,,7
+168,Learn conversational Spanish,Creative expression,2023-12-04,3.0,4.0,2.0,3.0,6.7,False,,7
+169,Compare insurance providers,Career advancement,2025-04-13,3.0,3.0,2.0,3.0,9.5,False,,3
+170,Research a relocation destination,Obligation / should-do,2023-11-19,3.0,2.0,5.0,1.0,5.1,True,2024-01-01,10
+171,Build a personal data project,Creative expression,2024-11-04,2.0,1.0,2.0,4.0,29.3,False,,9
+172,Call an old friend,Creative expression,2023-07-12,2.0,1.0,3.0,1.0,14.4,False,,8
+173,Plan a solo trip,Social connection,2023-07-28,3.0,1.0,5.0,3.0,4.7,True,2023-09-13,10
+174,PLAN A TRIP ITINERARY,Financial security,2023-05-05,2.0,2.0,3.0,2.0,49.9,True,2023-10-27,10
+175,Start a home workout routine,Health & wellbeing,2024-07-18,3.0,1.0,1.0,1.0,7.9,True,2024-11-13,4
+176,Write short stories weekly,Personal growth,2024-04-17,5.0,1.0,3.0,1.0,23.8,False,,2
+177,Plan a weekend getaway,Obligation / should-do,2024-06-05,5.0,1.0,2.0,2.0,15.1,False,,10
+178,PLAN A TRIP ITINERARY,Personal growth,2023-09-07,5.0,3.0,2.0,2.0,22.1,False,,10
+179,Organize a small get-together,Personal growth,2024-09-05,4.0,3.0,4.0,2.0,28.3,False,,8
+180,Learn to use Power BI,Obligation / should-do,2025-03-02,3.0,2.0,3.0,4.0,3.9,False,,7
+181,Update personal records,Social connection,2023-10-01,3.0,2.0,3.0,2.0,9.7,False,,6
+182,Plan a savings goal,Creative expression,2024-08-16,3.0,1.0,4.0,3.0,57.2,False,,3
+183,Learn to cook healthier meals,Curiosity / fun,2024-07-05,2.0,2.0,3.0,3.0,7.5,False,,4
+184,Build a personal dashboard,Curiosity / fun,2024-01-22,3.0,3.0,3.0,1.0,9.7,False,,9
+185,Start a photography project,Obligation / should-do,2024-08-08,4.0,1.0,3.0,1.0,23.9,False,,2
+186,FIND A MENTOR IN MY FIELD,Obligation / should-do,2025-02-01,1.0,1.0,3.0,4.0,7.7,False,,1
+187,Write a long-overdue message,Personal growth,2024-05-22,2.0,4.0,1.0,1.0,12.1,False,,8
+188,Contribute to an open-source project,Creative expression,2023-12-06,2.0,1.0,4.0,2.0,4.9,False,,9
+189,Learn basic public speaking,Obligation / should-do,2024-04-12,1.0,3.0,4.0,2.0,43.0,True,2024-06-01,7
+190,Train for a 5k run,Social connection,2024-04-25,2.0,1.0,2.0,1.0,10.2,False,,4
+191,Automate a recurring bill payment,Health & wellbeing,2024-12-10,2.0,3.0,1.0,3.0,7.6,False,,6
+192,Update personal records,Creative expression,2024-01-25,4.0,3.0,3.0,2.0,12.2,False,,6
+193,Build a personal data project,Social connection,2024-09-24,3.0,4.0,3.0,3.0,7.5,True,2025-03-18,9
+194,WRITE SHORT STORIES WEEKLY,Health & wellbeing,2024-03-20,4.0,1.0,5.0,1.0,2.3,False,,2
+195,BOOK A LONG-POSTPONED TRIP,Career advancement,2024-12-11,3.0,1.0,4.0,1.0,5.5,False,,10
+196,Ask for a performance review,Curiosity / fun,2025-03-26,1.0,2.0,1.0,1.0,16.2,True,2025-07-09,1
+197,Write a long-overdue message,Personal growth,2023-09-08,4.0,3.0,2.0,1.0,8.1,False,,8
+198,Improve sleep schedule,Obligation / should-do,2023-03-22,1.0,4.0,4.0,1.0,8.4,False,,4
+199,Try a new recipe every week,Personal growth,2024-05-24,3.0,1.0,3.0,1.0,3.3,False,,5
+200,Start sketching daily,Career advancement,2024-10-15,2.0,4.0,4.0,1.0,13.7,True,2025-01-02,2
+201,Plan a weekend getaway,Health & wellbeing,2024-11-24,4.0,3.0,3.0,1.0,15.3,False,,10
+202,Research visa requirements,Obligation / should-do,2024-08-24,3.0,3.0,4.0,2.0,5.0,False,,10
+203,Track spending for a month,Obligation / should-do,2025-05-15,4.0,2.0,5.0,1.0,39.0,False,,3
+204,Research a relocation destination,Curiosity / fun,2023-08-31,3.0,1.0,,,12.0,False,,10
+205,Start a puzzle-solving habit,Obligation / should-do,2024-12-17,3.0,1.0,3.0,3.0,38.7,False,,5
+206,BUILD AN EMERGENCY FUND,Career advancement,2024-08-02,3.0,2.0,3.0,3.0,3.3,False,,3
+207,Collect and organize a hobby set,Social connection,2025-05-02,2.0,1.0,3.0,2.0,5.3,False,,5
+208,Restore an old creative project,Financial security,2025-04-01,4.0,1.0,1.0,1.0,21.0,False,,2
+209,Start a puzzle-solving habit,Personal growth,2024-11-25,5.0,2.0,4.0,1.0,7.0,False,,5
+210,Learn SQL properly,Career advancement,2023-11-13,4.0,3.0,1.0,4.0,28.3,False,,7
+211,Learn basic calligraphy,Curiosity / fun,2025-01-19,2.0,3.0,3.0,1.0,5.0,True,2025-04-18,5
+212,Write a long-overdue message,Curiosity / fun,2023-07-25,2.0,2.0,4.0,2.0,5.9,True,2023-12-24,8
+213,Build a personal dashboard,Social connection,2023-10-07,4.0,1.0,4.0,1.0,5.9,False,,9
+214,Plan a weekend getaway,Health & wellbeing,2025-02-03,1.0,1.0,4.0,1.0,11.2,False,,10
+215,Research a relocation destination,Financial security,2023-05-25,3.0,3.0,3.0,1.0,20.0,False,,10
+216,Repair a strained relationship,Career advancement,2024-01-10,2.0,1.0,2.0,3.0,17.6,True,2024-05-04,8
+217,Learn the basics of investing,Social connection,2023-05-07,2.0,,3.0,5.0,11.5,False,,3
+218,Start a small garden,Curiosity / fun,2025-04-22,3.0,3.0,3.0,1.0,6.8,False,,5
+219,Read one book on statistics,Curiosity / fun,2024-04-27,3.0,2.0,4.0,2.0,15.8,True,2024-10-01,7
+220,TRY A NEW RECIPE EVERY WEEK,Social connection,2024-10-25,3.0,2.0,1.0,2.0,11.2,True,2025-03-06,5
+221,Plan a family visit,Social connection,2023-05-24,4.0,1.0,5.0,1.0,22.1,True,2023-06-16,8
+222,Research a relocation destination,Personal growth,2023-04-10,2.0,3.0,2.0,1.0,45.7,True,2023-09-08,10
+223,Schedule regular calls with family,Obligation / should-do,2024-01-15,2.0,2.0,4.0,2.0,9.4,False,,8
+224,Start journaling regularly,Health & wellbeing,2025-06-25,3.0,5.0,3.0,1.0,21.0,False,,5
+225,Plan a road trip route,Social connection,2024-02-22,4.0,4.0,4.0,1.0,35.5,False,,10
+226,Ask for a performance review,Financial security,2023-08-11,1.0,2.0,2.0,2.0,11.0,False,,1
+227,Organize digital files,Curiosity / fun,2024-12-03,3.0,3.0,5.0,2.0,6.6,False,,6
+228,Research career change options,Creative expression,2023-10-10,4.0,4.0,1.0,3.0,15.3,True,2023-11-24,1
+229,Read one book on statistics,Career advancement,2024-10-19,2.0,4.0,3.0,2.0,7.0,False,,7
+230,Ask for a performance review,Financial security,2023-09-07,3.0,1.0,1.0,4.0,3.8,False,,1
+231,Learn basic public speaking,Financial security,2023-08-01,2.0,1.0,2.0,1.0,35.8,False,,7
+232,Renew an expiring document,Career advancement,2025-03-18,4.0,1.0,5.0,2.0,6.1,False,,6
+233,Review and cut subscriptions,Personal growth,2023-05-14,1.0,5.0,1.0,1.0,20.5,False,,3
+234,LEARN SQL PROPERLY,Curiosity / fun,2023-05-15,5.0,4.0,4.0,3.0,17.6,True,2023-07-28,7
+235,Get a professional certification,Health & wellbeing,2023-09-29,4.0,2.0,3.0,2.0,4.1,True,2024-01-28,1
+236,Study for a certification exam,Health & wellbeing,2024-04-04,2.0,1.0,3.0,1.0,3.0,False,,7
+237,Research flights for a trip,Career advancement,2023-08-15,3.0,4.0,4.0,1.0,3.4,False,,10
+238,Start a freelance side gig,Career advancement,2024-04-14,4.0,1.0,3.0,3.0,3.4,False,,9
+239,Build a portfolio website,Health & wellbeing,2025-05-17,3.0,1.0,2.0,2.0,1.9,False,,1
+240,Plan a trip itinerary,Curiosity / fun,2023-03-17,3.0,2.0,4.0,1.0,27.9,False,,10
+241,Start journaling regularly,Curiosity / fun,2023-03-09,3.0,2.0,3.0,2.0,8.5,True,2023-08-29,5
+242,Join a local social group,Obligation / should-do,2024-06-27,3.0,1.0,2.0,1.0,39.4,False,,8
+243,Finish an online Python course,Financial security,2025-05-23,1.0,1.0,2.0,3.0,6.3,False,,7
+244,Schedule regular calls with family,Creative expression,2025-06-28,4.0,1.0,3.0,1.0,56.3,True,2025-10-06,8
+245,Send a thank-you note,Curiosity / fun,2025-01-17,1.0,2.0,4.0,2.0,6.9,True,2025-05-20,8
+246,Set up automatic savings,Creative expression,2023-06-06,3.0,2.0,3.0,3.0,59.7,False,,3
+247,Finish an online Python course,Health & wellbeing,2025-05-01,2.0,1.0,3.0,5.0,4.0,True,2025-09-02,7
+248,Renew an expiring document,Curiosity / fun,2024-07-23,5.0,4.0,2.0,2.0,35.4,True,2024-12-27,6
+249,Learn touch typing,Obligation / should-do,2023-12-29,2.0,2.0,2.0,1.0,4.6,False,,7
+250,Prepare for technical interviews,Health & wellbeing,2024-09-06,1.0,2.0,2.0,2.0,2.0,False,,1
+251,LEARN A CARD OR BOARD GAME DEEPLY,Financial security,2023-08-06,,3.0,1.0,1.0,24.7,True,2023-12-21,5
+252,Complete a data visualization course,Health & wellbeing,2025-05-15,1.0,4.0,3.0,1.0,7.8,False,,7
+253,Plan a savings goal,Career advancement,2023-08-20,3.0,2.0,4.0,1.0,9.5,False,,3
+254,Start a puzzle-solving habit,Social connection,2023-01-30,1.0,2.0,2.0,1.0,24.8,True,2023-08-11,5
+255,Set up a filing system,Obligation / should-do,2023-01-07,4.0,3.0,2.0,,24.3,True,2023-02-26,6
+256,Learn conversational Spanish,Career advancement,2025-01-28,3.0,5.0,3.0,2.0,6.2,False,,7
+257,Learn basic public speaking,Creative expression,2023-08-09,3.0,2.0,4.0,3.0,4.0,False,,7
+258,Renew an expiring document,Curiosity / fun,2024-01-14,1.0,1.0,4.0,1.0,1.2,False,,6
+259,Start a reading challenge,Personal growth,2023-03-28,3.0,5.0,3.0,2.0,8.8,False,,5
+260,Start meditating daily,Social connection,2023-02-20,3.0,3.0,3.0,1.0,10.9,False,,4
+261,Create a travel budget,Obligation / should-do,2024-05-12,2.0,3.0,3.0,1.0,13.2,False,,10
+262,RESEARCH INVESTMENT OPTIONS,Curiosity / fun,2025-02-12,,2.0,3.0,,12.5,False,,3
+263,Plan a family visit,Creative expression,2023-10-18,3.0,3.0,5.0,2.0,8.2,False,,8
+264,Start a freelance side gig,Career advancement,2023-02-16,1.0,1.0,3.0,1.0,6.9,True,2023-08-02,9
+265,NETWORK WITH 5 PEOPLE IN TARGET INDUSTRY,Personal growth,2023-11-05,3.0,3.0,3.0,3.0,8.7,False,,1
+266,Pay off a small debt,Obligation / should-do,2023-12-02,1.0,1.0,3.0,1.0,14.0,True,2024-04-21,3
+267,IMPROVE SLEEP SCHEDULE,Financial security,2024-01-25,4.0,4.0,3.0,3.0,9.3,False,,4
+268,Build a personal dashboard,Curiosity / fun,2025-05-03,2.0,1.0,3.0,1.0,9.5,False,,9
+269,Learn touch typing,Obligation / should-do,2025-06-01,3.0,2.0,3.0,4.0,19.2,False,,7
+270,Build a portfolio website,Obligation / should-do,2023-03-21,1.0,1.0,4.0,1.0,6.7,False,,1
+271,Start a small garden,Social connection,2024-12-27,1.0,1.0,4.0,2.0,4.9,False,,5
+272,Learn touch typing,Personal growth,2023-01-22,1.0,1.0,3.0,,9.6,False,,7
+273,Collect and organize a hobby set,Curiosity / fun,2025-05-01,3.0,3.0,3.0,1.0,24.0,False,,5
+274,Learn touch typing,Obligation / should-do,2025-05-14,3.0,2.0,2.0,1.0,3.7,True,2025-09-16,7
+275,Start a small blog,Curiosity / fun,2024-02-10,3.0,4.0,1.0,1.0,30.7,False,,9
+276,Try a new craft technique,Health & wellbeing,2025-03-08,2.0,1.0,4.0,1.0,42.2,True,2025-07-30,2
+277,Build a personal dashboard,Curiosity / fun,2023-07-18,3.0,2.0,5.0,1.0,15.9,False,,9
+278,RENEW AN EXPIRING DOCUMENT,Financial security,2023-08-30,3.0,,5.0,1.0,4.1,True,2023-11-17,6
+279,Start meditating daily,Health & wellbeing,2023-06-06,3.0,1.0,5.0,,5.9,False,,4
+280,Learn to cook healthier meals,Creative expression,2024-04-20,3.0,1.0,2.0,2.0,4.5,False,,4
+281,Start a reading challenge,Curiosity / fun,2023-11-27,2.0,3.0,4.0,2.0,20.0,False,,5
+282,Learn to cook healthier meals,Social connection,2023-03-11,2.0,1.0,5.0,1.0,6.5,False,,4
+283,Plan a savings goal,Health & wellbeing,2023-02-27,4.0,3.0,,5.0,4.6,False,,3
+284,Track spending for a month,Social connection,2024-04-07,4.0,2.0,3.0,4.0,12.9,True,2024-07-24,3
+285,Finish an online Python course,Obligation / should-do,2024-09-21,3.0,3.0,2.0,1.0,3.2,False,,7
+286,Plan a road trip route,Career advancement,2024-07-21,1.0,5.0,2.0,1.0,6.4,False,,10
+287,Plan a road trip route,Creative expression,2024-10-29,3.0,3.0,4.0,1.0,7.0,True,2025-04-15,10
+288,Build a portfolio project,Curiosity / fun,2023-03-05,3.0,2.0,5.0,3.0,15.8,False,,9
+289,Learn basic public speaking,Creative expression,2024-10-23,3.0,4.0,3.0,1.0,11.7,True,2025-01-08,7
+290,Research flights for a trip,Curiosity / fun,2024-06-19,2.0,1.0,4.0,2.0,8.3,False,,10
+291,FIX A RECURRING HOUSEHOLD ISSUE,Curiosity / fun,2024-02-01,3.0,4.0,3.0,4.0,13.6,False,,6
+292,Start a houseplant collection,Curiosity / fun,2025-03-19,1.0,3.0,3.0,2.0,15.0,False,,5
+293,Complete a data visualization course,Obligation / should-do,2023-04-07,3.0,1.0,3.0,1.0,4.8,False,,7
+294,Pay off a small debt,Personal growth,2025-01-11,3.0,4.0,3.0,1.0,12.2,False,,3
+295,Organize digital files,Curiosity / fun,2024-08-19,4.0,1.0,3.0,1.0,4.0,False,,6
+296,Compare insurance providers,Health & wellbeing,2023-05-13,3.0,2.0,3.0,1.0,5.5,False,,3
+297,Learn the basics of investing,Curiosity / fun,2024-01-21,3.0,2.0,5.0,1.0,10.0,False,,3
+298,Reduce screen time before bed,Obligation / should-do,2023-04-06,4.0,1.0,1.0,1.0,25.4,False,,4
+299,Build an automation script,Personal growth,2023-01-19,2.0,5.0,2.0,2.0,32.7,False,,9
+300,Try a new craft technique,Financial security,2025-02-23,5.0,5.0,4.0,,13.9,False,,2
+301,Improve sleep schedule,Health & wellbeing,2023-03-21,4.0,1.0,2.0,1.0,7.0,False,,4
+302,Build a personal dashboard,Career advancement,2025-05-05,2.0,3.0,4.0,2.0,30.9,False,,9
+303,Automate a recurring bill payment,Personal growth,2023-05-15,1.0,2.0,2.0,1.0,7.6,False,,6
+304,Improve sleep schedule,Personal growth,2025-05-01,3.0,4.0,4.0,1.0,43.3,False,,4
+305,Plan a solo trip,Financial security,2024-02-25,4.0,3.0,3.0,1.0,5.8,False,,10
+306,Plan a road trip route,Creative expression,2023-10-19,4.0,4.0,5.0,1.0,3.0,False,,10
+307,Learn a new design software,Creative expression,2023-09-02,3.0,1.0,3.0,1.0,5.4,False,,2
+308,Try a new craft technique,Creative expression,2024-11-25,1.0,3.0,2.0,1.0,0.6,False,,2
+309,Plan a weekend getaway,Obligation / should-do,2025-03-07,3.0,4.0,5.0,1.0,4.7,False,,10
+310,Cut down on sugar,Social connection,2025-03-31,3.0,1.0,3.0,2.0,24.6,False,,4
+311,Build a portfolio website,Health & wellbeing,2025-06-14,3.0,2.0,2.0,1.0,6.7,False,,1
+312,Start a small blog,Social connection,2023-10-19,3.0,3.0,2.0,4.0,6.4,True,2023-12-13,9
+313,Research flights for a trip,Health & wellbeing,2023-05-31,3.0,1.0,1.0,2.0,15.8,False,,10
+314,Start sketching daily,Career advancement,2025-06-24,2.0,2.0,4.0,1.0,5.1,False,,2
+315,Call an old friend,Financial security,2024-02-10,4.0,1.0,3.0,1.0,12.4,False,,8
+316,Plan a family visit,Health & wellbeing,2024-01-19,3.0,1.0,4.0,1.0,3.9,True,2024-04-23,8
+317,Renew an expiring document,Personal growth,2023-05-21,3.0,3.0,2.0,1.0,,True,2023-10-02,6
+318,Plan a trip itinerary,Career advancement,2024-09-22,3.0,2.0,2.0,1.0,8.8,True,2024-10-26,10
+319,RESEARCH INVESTMENT OPTIONS,Obligation / should-do,2025-05-05,2.0,1.0,3.0,3.0,1.0,True,2025-11-21,3
+320,Learn to use Power BI,Career advancement,2023-09-01,2.0,3.0,5.0,2.0,4.2,False,,7
